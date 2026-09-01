@@ -90,7 +90,8 @@ jobs:
             echo 'No Rubika chat_id found. Send /start to githubscanbot, then rerun this workflow.'
             exit 1
           fi
-          text="🚨 رادار فرصت‌های متن‌باز\n\nاسکن جدید با موفقیت انجام شد ✅\n\n📊 داشبورد و گزارش کامل:\n${REPORT_URL}\n\n⏰ این گزارش توسط Open Source Opportunity Radar تولید شده است."
+          text=$(printf '🚨 رادار فرصت‌های متن‌باز\n\nاسکن جدید با موفقیت انجام شد ✅\n\n📊 داشبورد و گزارش کامل:\n%s\n\n⏰ این گزارش توسط Open Source Opportunity Radar تولید شده است.' "$REPORT_URL")
+          jq -n --arg chat_id "$chat_id" --arg text "$text" '{chat_id:$chat_id,text:$text}' > /tmp/rubika-payload.json
           curl -fsS -X POST "https://botapi.rubika.ir/v3/${RUBIKA_BOT_TOKEN}/sendMessage" \
             -H 'Content-Type: application/json' \
-            --data "$(jq -n --arg chat_id "$chat_id" --arg text "$text" '{chat_id:$chat_id,text:$text}')"
+            --data-binary @/tmp/rubika-payload.json
