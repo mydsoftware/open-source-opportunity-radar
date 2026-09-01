@@ -1,0 +1,52 @@
+queries:
+  - name: ai-agents
+    query: "topic:ai-agent"
+    category: AI
+  - name: llm
+    query: "topic:llm"
+    category: AI
+  - name: rag
+    query: "topic:rag"
+    category: AI
+  - name: ecommerce
+    query: "topic:ecommerce"
+    category: E-commerce
+  - name: crm
+    query: "topic:crm"
+    category: Business
+  - name: erp
+    query: "topic:erp"
+    category: Business
+  - name: automation
+    query: "topic:automation"
+    category: Automation
+  - name: devops
+    query: "topic:devops"
+    category: Developer
+  - name: low-code
+    query: "topic:low-code"
+    category: Low-code
+  - name: cms
+    query: "topic:cms"
+    category: Web
+  - name: game-engine
+    query: "topic:game-engine"
+    category: Games
+  - name: iot
+    query: "topic:iot"
+    category: IoT
+  - name: finance
+    query: "topic:finance"
+    category: Finance
+  - name: pdf
+    query: "topic:pdf"
+    category: Documents
+  - name: analytics
+    query: "topic:analytics"
+    category: Analytics
+
+limits:
+  per_query: 20
+  max_repositories: 250
+  min_stars: 100
+  rising_window_days: 30
