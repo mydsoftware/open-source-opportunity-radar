@@ -1,12 +1,44 @@
 {
-  "generated_at": "2026-09-01T08:47:38.358398+00:00",
+  "generated_at": "2026-09-01T08:51:52.959164+00:00",
   "count": 250,
   "top": [
+    {
+      "full_name": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "score": 81.2,
+      "stars": 239204,
+      "license": "MIT",
+      "best_path": "AI SaaS"
+    },
+    {
+      "full_name": "ZhuLinsen/daily_stock_analysis",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "score": 81.2,
+      "stars": 64431,
+      "license": "MIT",
+      "best_path": "AI SaaS"
+    },
     {
       "full_name": "hugohe3/ppt-master",
       "url": "https://github.com/hugohe3/ppt-master",
       "score": 81.2,
-      "stars": 50935,
+      "stars": 50937,
+      "license": "MIT",
+      "best_path": "AI SaaS"
+    },
+    {
+      "full_name": "HKUDS/nanobot",
+      "url": "https://github.com/HKUDS/nanobot",
+      "score": 81.2,
+      "stars": 47596,
+      "license": "MIT",
+      "best_path": "AI SaaS"
+    },
+    {
+      "full_name": "HKUDS/Vibe-Trading",
+      "url": "https://github.com/HKUDS/Vibe-Trading",
+      "score": 81.2,
+      "stars": 32208,
       "license": "MIT",
       "best_path": "AI SaaS"
     },
@@ -14,7 +46,23 @@
       "full_name": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
       "score": 81.2,
-      "stars": 245441,
+      "stars": 245445,
+      "license": "MIT",
+      "best_path": "AI SaaS"
+    },
+    {
+      "full_name": "ollama/ollama",
+      "url": "https://github.com/ollama/ollama",
+      "score": 81.2,
+      "stars": 179871,
+      "license": "MIT",
+      "best_path": "AI SaaS"
+    },
+    {
+      "full_name": "harry0703/MoneyPrinterTurbo",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "score": 81.2,
+      "stars": 119177,
       "license": "MIT",
       "best_path": "AI SaaS"
     },
@@ -22,7 +70,7 @@
       "full_name": "DietrichGebert/ponytail",
       "url": "https://github.com/DietrichGebert/ponytail",
       "score": 81.2,
-      "stars": 119055,
+      "stars": 119061,
       "license": "MIT",
       "best_path": "AI SaaS"
     },
@@ -35,34 +83,10 @@
       "best_path": "Vertical SaaS"
     },
     {
-      "full_name": "NousResearch/hermes-agent",
-      "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 81.1,
-      "stars": 239202,
-      "license": "MIT",
-      "best_path": "AI SaaS"
-    },
-    {
       "full_name": "shareAI-lab/learn-claude-code",
       "url": "https://github.com/shareAI-lab/learn-claude-code",
       "score": 81.1,
       "stars": 75799,
-      "license": "MIT",
-      "best_path": "AI SaaS"
-    },
-    {
-      "full_name": "ZhuLinsen/daily_stock_analysis",
-      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-      "score": 81.1,
-      "stars": 64429,
-      "license": "MIT",
-      "best_path": "AI SaaS"
-    },
-    {
-      "full_name": "HKUDS/nanobot",
-      "url": "https://github.com/HKUDS/nanobot",
-      "score": 81.1,
-      "stars": 47595,
       "license": "MIT",
       "best_path": "AI SaaS"
     },
@@ -99,34 +123,10 @@
       "best_path": "AI SaaS"
     },
     {
-      "full_name": "HKUDS/Vibe-Trading",
-      "url": "https://github.com/HKUDS/Vibe-Trading",
-      "score": 81.1,
-      "stars": 32207,
-      "license": "MIT",
-      "best_path": "AI SaaS"
-    },
-    {
-      "full_name": "ollama/ollama",
-      "url": "https://github.com/ollama/ollama",
-      "score": 81.1,
-      "stars": 179870,
-      "license": "MIT",
-      "best_path": "AI SaaS"
-    },
-    {
       "full_name": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
       "score": 81.1,
       "stars": 145406,
-      "license": "MIT",
-      "best_path": "AI SaaS"
-    },
-    {
-      "full_name": "harry0703/MoneyPrinterTurbo",
-      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
-      "score": 81.1,
-      "stars": 119176,
       "license": "MIT",
       "best_path": "AI SaaS"
     },
@@ -206,7 +206,7 @@
       "full_name": "bojieli/ai-agent-book",
       "url": "https://github.com/bojieli/ai-agent-book",
       "score": 80.4,
-      "stars": 44012,
+      "stars": 44014,
       "license": "Apache-2.0",
       "best_path": "AI SaaS"
     },
@@ -238,7 +238,7 @@
       "full_name": "Graphify-Labs/graphify",
       "url": "https://github.com/Graphify-Labs/graphify",
       "score": 80.4,
-      "stars": 113147,
+      "stars": 113149,
       "license": "Apache-2.0",
       "best_path": "AI SaaS"
     },
@@ -278,7 +278,7 @@
       "full_name": "infiniflow/ragflow",
       "url": "https://github.com/infiniflow/ragflow",
       "score": 80.4,
-      "stars": 89798,
+      "stars": 89800,
       "license": "Apache-2.0",
       "best_path": "AI SaaS"
     },
@@ -318,7 +318,7 @@
       "full_name": "opendataloader-project/opendataloader-pdf",
       "url": "https://github.com/opendataloader-project/opendataloader-pdf",
       "score": 80.2,
-      "stars": 28880,
+      "stars": 28879,
       "license": "Apache-2.0",
       "best_path": "Vertical SaaS"
     },
@@ -334,7 +334,7 @@
       "full_name": "santifer/career-ops",
       "url": "https://github.com/santifer/career-ops",
       "score": 80.1,
-      "stars": 69666,
+      "stars": 69667,
       "license": "MIT",
       "best_path": "SaaS / Services"
     },
@@ -526,7 +526,7 @@
       "full_name": "TauricResearch/TradingAgents",
       "url": "https://github.com/TauricResearch/TradingAgents",
       "score": 78.5,
-      "stars": 102107,
+      "stars": 102109,
       "license": "Apache-2.0",
       "best_path": "SaaS / Services"
     },
@@ -622,7 +622,7 @@
       "full_name": "D4Vinci/Scrapling",
       "url": "https://github.com/D4Vinci/Scrapling",
       "score": 77.6,
-      "stars": 77640,
+      "stars": 77641,
       "license": "BSD-3-Clause",
       "best_path": "SaaS / Services"
     },
@@ -649,14 +649,6 @@
       "stars": 24664,
       "license": "Apache-2.0",
       "best_path": "Managed Service"
-    },
-    {
-      "full_name": "vnpy/vnpy",
-      "url": "https://github.com/vnpy/vnpy",
-      "score": 77.5,
-      "stars": 45034,
-      "license": "MIT",
-      "best_path": "SaaS / Services"
     },
     {
       "full_name": "actualbudget/actual",
@@ -729,6 +721,14 @@
       "stars": 18888,
       "license": "Apache-2.0",
       "best_path": "Vertical SaaS"
+    },
+    {
+      "full_name": "vnpy/vnpy",
+      "url": "https://github.com/vnpy/vnpy",
+      "score": 77.4,
+      "stars": 45033,
+      "license": "MIT",
+      "best_path": "SaaS / Services"
     },
     {
       "full_name": "FJ-OMS/oms-erp",
