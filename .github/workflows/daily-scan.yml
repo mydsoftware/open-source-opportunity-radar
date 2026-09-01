@@ -33,22 +33,18 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python scripts/scan.py
-      - name: Run optional semantic business analysis
-        env:
-          LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
-          LLM_BASE_URL: ${{ secrets.LLM_BASE_URL }}
-          LLM_MODEL: ${{ secrets.LLM_MODEL }}
-        run: python scripts/llm_analyze.py
+      - name: Prepare Freebuff analysis queue
+        run: python scripts/prepare_freebuff_queue.py
       - name: Build dashboard
         run: python scripts/build_dashboard.py
       - name: Run tests
         run: python -m pytest -q
-      - name: Commit generated data and reports
+      - name: Commit generated data, queue and reports
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git add data reports dashboard
-          git diff --cached --quiet || git commit -m 'chore: update opportunity radar'
+          git diff --cached --quiet || git commit -m 'chore: update opportunity radar and Freebuff queue'
           git push
       - name: Upload dashboard
         uses: actions/upload-pages-artifact@v3
@@ -82,16 +78,9 @@ jobs:
             echo 'RUBIKA_BOT_TOKEN secret is not configured; notification skipped.'
             exit 0
           fi
-          updates=$(curl -fsS -X POST "https://botapi.rubika.ir/v3/${RUBIKA_BOT_TOKEN}/getUpdates" \
-            -H 'Content-Type: application/json' \
-            --data '{"limit":20}')
+          updates=$(curl -fsS -X POST "https://botapi.rubika.ir/v3/${RUBIKA_BOT_TOKEN}/getUpdates" -H 'Content-Type: application/json' --data '{"limit":20}')
           chat_id=$(printf '%s' "$updates" | jq -r '[ .data?.updates[]? | .chat_id? ] | map(select(type == "string" and length > 0)) | last // empty')
-          if [ -z "$chat_id" ]; then
-            echo 'No Rubika chat_id found. Send /start to githubscanbot, then rerun this workflow.'
-            exit 1
-          fi
+          if [ -z "$chat_id" ]; then echo 'No Rubika chat_id found. Send /start to githubscanbot, then rerun this workflow.'; exit 1; fi
           text=$(printf '🚨 رادار فرصت‌های متن‌باز\n\nاسکن جدید با موفقیت انجام شد ✅\n\n📊 داشبورد و گزارش کامل:\n%s\n\n⏰ این گزارش توسط Open Source Opportunity Radar تولید شده است.' "$REPORT_URL")
           jq -n --arg chat_id "$chat_id" --arg text "$text" '{chat_id:$chat_id,text:$text}' > /tmp/rubika-payload.json
-          curl -fsS -X POST "https://botapi.rubika.ir/v3/${RUBIKA_BOT_TOKEN}/sendMessage" \
-            -H 'Content-Type: application/json' \
-            --data-binary @/tmp/rubika-payload.json
+          curl -fsS -X POST "https://botapi.rubika.ir/v3/${RUBIKA_BOT_TOKEN}/sendMessage" -H 'Content-Type: application/json' --data-binary @/tmp/rubika-payload.json
