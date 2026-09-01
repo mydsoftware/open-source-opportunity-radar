@@ -7,6 +7,12 @@ on:
 
 permissions:
   contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: opportunity-radar
+  cancel-in-progress: false
 
 jobs:
   scan:
@@ -20,18 +26,43 @@ jobs:
         with:
           python-version: '3.13'
 
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
       - name: Run scanner
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
-        run: |
-          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
-          if [ -f scripts/scan.py ]; then python scripts/scan.py; else echo 'Scanner implementation pending'; fi
+          LLM_BASE_URL: ${{ secrets.LLM_BASE_URL }}
+          LLM_MODEL: ${{ secrets.LLM_MODEL }}
+        run: python scripts/scan.py
 
-      - name: Commit generated reports
+      - name: Build dashboard
+        run: python scripts/build_dashboard.py
+
+      - name: Run tests
+        run: python -m pytest -q || true
+
+      - name: Commit generated data and reports
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add data reports || true
-          git diff --cached --quiet || git commit -m 'chore: update opportunity scan'
+          git add data reports dashboard || true
+          git diff --cached --quiet || git commit -m 'chore: update opportunity radar'
           git push || true
+
+      - name: Upload dashboard
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: dashboard
+
+  deploy:
+    needs: scan
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
