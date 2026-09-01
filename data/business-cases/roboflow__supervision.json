@@ -1,0 +1,30 @@
+{
+  "what_it_does": "«roboflow/supervision» یک پروژه در حوزه Low-code است. توضیح ثبت‌شده: We write your reusable computer vision tools. 💜 زبان: Python. موضوعات مرتبط: classification، coco، computer-vision، deep-learning، hacktoberfest، image-processing.",
+  "why_it_matters": "قابلیت اصلی «roboflow/supervision» می‌تواند از یک ابزار فنی به یک محصول آماده برای کاربران حوزه Low-code تبدیل شود.",
+  "best_path": "یک محصول یا سرویس تخصصی بر پایه قابلیت واقعی «roboflow/supervision» برای حوزه Low-code.",
+  "business_opportunities": [
+    {
+      "product": "یک محصول یا سرویس تخصصی بر پایه قابلیت واقعی «roboflow/supervision» برای حوزه Low-code.",
+      "customer": "کسب‌وکارها و تیم‌هایی که به قابلیت «roboflow/supervision» در حوزه Low-code نیاز دارند.",
+      "monetization": "هزینه راه‌اندازی + اشتراک ماهانه + سفارشی‌سازی + پشتیبانی.",
+      "example_usage": "مثلاً قابلیت اصلی «roboflow/supervision» را در یک پنل فارسی قرار بده تا مشتری بتواند بدون کار با کد از آن استفاده کند.",
+      "sales_pitch": "«ما قابلیت roboflow/supervision را متناسب با نیاز کسب‌وکار شما آماده، فارسی‌سازی و راه‌اندازی می‌کنیم و پشتیبانی هم ارائه می‌دهیم.»",
+      "localization": "رابط فارسی و RTL، آموزش فارسی، پنل ساده و اتصال به سرویس‌های موردنیاز بازار هدف.",
+      "difficulty": "متوسط",
+      "time_to_money": "حدود ۱ تا ۴ هفته برای MVP خدماتی؛ وابسته به پیچیدگی پروژه.",
+      "license_risk": "لایسنس: MIT. قبل از استفاده تجاری، LICENSE و NOTICE و وابستگی‌ها بررسی شوند."
+    }
+  ],
+  "missing_features": [
+    "رابط فارسی و RTL",
+    "پنل مناسب کاربر غیر فنی",
+    "مستندات و آموزش فارسی",
+    "اتصال به سرویس‌های بازار هدف"
+  ],
+  "paying_customers": "کسب‌وکارها و تیم‌هایی که به قابلیت «roboflow/supervision» در حوزه Low-code نیاز دارند.",
+  "fastest_path": "یک MVP کوچک با قابلیت واقعی «roboflow/supervision» برای یک مشتری حوزه Low-code بساز و ابتدا هزینه راه‌اندازی و سفارشی‌سازی دریافت کن.",
+  "long_term_path": "بعد از اثبات تقاضا، محصول مبتنی بر «roboflow/supervision» را به SaaS تخصصی حوزه Low-code تبدیل کن.",
+  "confidence": 55,
+  "license_notes": "لایسنس فعلی: MIT. پیش از فروش، شرایط مجوز و وابستگی‌ها بررسی شوند.",
+  "_source": "repository_specific_fallback"
+}

@@ -1,0 +1,30 @@
+{
+  "what_it_does": "«akfamily/akshare» یک پروژه در حوزه Finance است. توضیح ثبت‌شده: AKShare is an elegant and simple financial data interface library for Python, built for human beings! 开源财经数据接口库 زبان: Python. موضوعات مرتبط: academic، akshare، asset-pricing، bond، currency، data.",
+  "why_it_matters": "قابلیت اصلی «akfamily/akshare» می‌تواند از یک ابزار فنی به یک محصول آماده برای کاربران حوزه Finance تبدیل شود.",
+  "best_path": "یک محصول یا سرویس تخصصی بر پایه قابلیت واقعی «akfamily/akshare» برای حوزه Finance.",
+  "business_opportunities": [
+    {
+      "product": "یک محصول یا سرویس تخصصی بر پایه قابلیت واقعی «akfamily/akshare» برای حوزه Finance.",
+      "customer": "کسب‌وکارها و تیم‌هایی که به قابلیت «akfamily/akshare» در حوزه Finance نیاز دارند.",
+      "monetization": "هزینه راه‌اندازی + اشتراک ماهانه + سفارشی‌سازی + پشتیبانی.",
+      "example_usage": "مثلاً قابلیت اصلی «akfamily/akshare» را در یک پنل فارسی قرار بده تا مشتری بتواند بدون کار با کد از آن استفاده کند.",
+      "sales_pitch": "«ما قابلیت akfamily/akshare را متناسب با نیاز کسب‌وکار شما آماده، فارسی‌سازی و راه‌اندازی می‌کنیم و پشتیبانی هم ارائه می‌دهیم.»",
+      "localization": "رابط فارسی و RTL، آموزش فارسی، پنل ساده و اتصال به سرویس‌های موردنیاز بازار هدف.",
+      "difficulty": "متوسط",
+      "time_to_money": "حدود ۱ تا ۴ هفته برای MVP خدماتی؛ وابسته به پیچیدگی پروژه.",
+      "license_risk": "لایسنس: MIT. قبل از استفاده تجاری، LICENSE و NOTICE و وابستگی‌ها بررسی شوند."
+    }
+  ],
+  "missing_features": [
+    "رابط فارسی و RTL",
+    "پنل مناسب کاربر غیر فنی",
+    "مستندات و آموزش فارسی",
+    "اتصال به سرویس‌های بازار هدف"
+  ],
+  "paying_customers": "کسب‌وکارها و تیم‌هایی که به قابلیت «akfamily/akshare» در حوزه Finance نیاز دارند.",
+  "fastest_path": "یک MVP کوچک با قابلیت واقعی «akfamily/akshare» برای یک مشتری حوزه Finance بساز و ابتدا هزینه راه‌اندازی و سفارشی‌سازی دریافت کن.",
+  "long_term_path": "بعد از اثبات تقاضا، محصول مبتنی بر «akfamily/akshare» را به SaaS تخصصی حوزه Finance تبدیل کن.",
+  "confidence": 55,
+  "license_notes": "لایسنس فعلی: MIT. پیش از فروش، شرایط مجوز و وابستگی‌ها بررسی شوند.",
+  "_source": "repository_specific_fallback"
+}

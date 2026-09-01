@@ -1,0 +1,30 @@
+{
+  "what_it_does": "«DietrichGebert/ponytail» یک پروژه در حوزه AI است. توضیح ثبت‌شده: Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. زبان: JavaScript. موضوعات مرتبط: agent-skills، ai-agents، claude، claude-code، claude-code-plugin، cursor-rules.",
+  "why_it_matters": "قابلیت اصلی «DietrichGebert/ponytail» می‌تواند از یک ابزار فنی به یک محصول آماده برای کاربران حوزه AI تبدیل شود.",
+  "best_path": "یک محصول یا سرویس تخصصی بر پایه قابلیت واقعی «DietrichGebert/ponytail» برای حوزه AI.",
+  "business_opportunities": [
+    {
+      "product": "یک محصول یا سرویس تخصصی بر پایه قابلیت واقعی «DietrichGebert/ponytail» برای حوزه AI.",
+      "customer": "کسب‌وکارها و تیم‌هایی که به قابلیت «DietrichGebert/ponytail» در حوزه AI نیاز دارند.",
+      "monetization": "هزینه راه‌اندازی + اشتراک ماهانه + سفارشی‌سازی + پشتیبانی.",
+      "example_usage": "مثلاً قابلیت اصلی «DietrichGebert/ponytail» را در یک پنل فارسی قرار بده تا مشتری بتواند بدون کار با کد از آن استفاده کند.",
+      "sales_pitch": "«ما قابلیت DietrichGebert/ponytail را متناسب با نیاز کسب‌وکار شما آماده، فارسی‌سازی و راه‌اندازی می‌کنیم و پشتیبانی هم ارائه می‌دهیم.»",
+      "localization": "رابط فارسی و RTL، آموزش فارسی، پنل ساده و اتصال به سرویس‌های موردنیاز بازار هدف.",
+      "difficulty": "متوسط",
+      "time_to_money": "حدود ۱ تا ۴ هفته برای MVP خدماتی؛ وابسته به پیچیدگی پروژه.",
+      "license_risk": "لایسنس: MIT. قبل از استفاده تجاری، LICENSE و NOTICE و وابستگی‌ها بررسی شوند."
+    }
+  ],
+  "missing_features": [
+    "رابط فارسی و RTL",
+    "پنل مناسب کاربر غیر فنی",
+    "مستندات و آموزش فارسی",
+    "اتصال به سرویس‌های بازار هدف"
+  ],
+  "paying_customers": "کسب‌وکارها و تیم‌هایی که به قابلیت «DietrichGebert/ponytail» در حوزه AI نیاز دارند.",
+  "fastest_path": "یک MVP کوچک با قابلیت واقعی «DietrichGebert/ponytail» برای یک مشتری حوزه AI بساز و ابتدا هزینه راه‌اندازی و سفارشی‌سازی دریافت کن.",
+  "long_term_path": "بعد از اثبات تقاضا، محصول مبتنی بر «DietrichGebert/ponytail» را به SaaS تخصصی حوزه AI تبدیل کن.",
+  "confidence": 55,
+  "license_notes": "لایسنس فعلی: MIT. پیش از فروش، شرایط مجوز و وابستگی‌ها بررسی شوند.",
+  "_source": "repository_specific_fallback"
+}

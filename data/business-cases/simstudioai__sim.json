@@ -1,0 +1,30 @@
+{
+  "what_it_does": "«simstudioai/sim» یک پروژه در حوزه Low-code است. توضیح ثبت‌شده: Sim is the collaborative workspace to build, deploy, and monitor AI agents and workflows. Used by 100,000+ builders. زبان: TypeScript. موضوعات مرتبط: agent-workflow، agentic-workflow، agents، ai، aiagents، anthropic.",
+  "why_it_matters": "قابلیت اصلی «simstudioai/sim» می‌تواند از یک ابزار فنی به یک محصول آماده برای کاربران حوزه Low-code تبدیل شود.",
+  "best_path": "یک محصول یا سرویس تخصصی بر پایه قابلیت واقعی «simstudioai/sim» برای حوزه Low-code.",
+  "business_opportunities": [
+    {
+      "product": "یک محصول یا سرویس تخصصی بر پایه قابلیت واقعی «simstudioai/sim» برای حوزه Low-code.",
+      "customer": "کسب‌وکارها و تیم‌هایی که به قابلیت «simstudioai/sim» در حوزه Low-code نیاز دارند.",
+      "monetization": "هزینه راه‌اندازی + اشتراک ماهانه + سفارشی‌سازی + پشتیبانی.",
+      "example_usage": "مثلاً قابلیت اصلی «simstudioai/sim» را در یک پنل فارسی قرار بده تا مشتری بتواند بدون کار با کد از آن استفاده کند.",
+      "sales_pitch": "«ما قابلیت simstudioai/sim را متناسب با نیاز کسب‌وکار شما آماده، فارسی‌سازی و راه‌اندازی می‌کنیم و پشتیبانی هم ارائه می‌دهیم.»",
+      "localization": "رابط فارسی و RTL، آموزش فارسی، پنل ساده و اتصال به سرویس‌های موردنیاز بازار هدف.",
+      "difficulty": "متوسط",
+      "time_to_money": "حدود ۱ تا ۴ هفته برای MVP خدماتی؛ وابسته به پیچیدگی پروژه.",
+      "license_risk": "لایسنس: Apache-2.0. قبل از استفاده تجاری، LICENSE و NOTICE و وابستگی‌ها بررسی شوند."
+    }
+  ],
+  "missing_features": [
+    "رابط فارسی و RTL",
+    "پنل مناسب کاربر غیر فنی",
+    "مستندات و آموزش فارسی",
+    "اتصال به سرویس‌های بازار هدف"
+  ],
+  "paying_customers": "کسب‌وکارها و تیم‌هایی که به قابلیت «simstudioai/sim» در حوزه Low-code نیاز دارند.",
+  "fastest_path": "یک MVP کوچک با قابلیت واقعی «simstudioai/sim» برای یک مشتری حوزه Low-code بساز و ابتدا هزینه راه‌اندازی و سفارشی‌سازی دریافت کن.",
+  "long_term_path": "بعد از اثبات تقاضا، محصول مبتنی بر «simstudioai/sim» را به SaaS تخصصی حوزه Low-code تبدیل کن.",
+  "confidence": 55,
+  "license_notes": "لایسنس فعلی: Apache-2.0. پیش از فروش، شرایط مجوز و وابستگی‌ها بررسی شوند.",
+  "_source": "repository_specific_fallback"
+}

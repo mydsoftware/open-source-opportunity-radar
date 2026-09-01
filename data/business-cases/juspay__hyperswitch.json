@@ -1,0 +1,30 @@
+{
+  "what_it_does": "«juspay/hyperswitch» یک پروژه در حوزه Finance است. توضیح ثبت‌شده: Open source, composable payments platform | PCI compliant | SaaS and Self-host options | Enables connectivity to multiple payment, payout, fraud, vault and tokenization providers | Uplifts authorization with intelligent routing and revenue recovery | Reduce payment processing costs with cost observability | Reduces payment ops with reconciliation زبان: Rust. موضوعات مرتبط: adyen، beginner-friendly، featured، finance، fintech، hacktoberfest.",
+  "why_it_matters": "قابلیت اصلی «juspay/hyperswitch» می‌تواند از یک ابزار فنی به یک محصول آماده برای کاربران حوزه Finance تبدیل شود.",
+  "best_path": "یک محصول یا سرویس تخصصی بر پایه قابلیت واقعی «juspay/hyperswitch» برای حوزه Finance.",
+  "business_opportunities": [
+    {
+      "product": "یک محصول یا سرویس تخصصی بر پایه قابلیت واقعی «juspay/hyperswitch» برای حوزه Finance.",
+      "customer": "کسب‌وکارها و تیم‌هایی که به قابلیت «juspay/hyperswitch» در حوزه Finance نیاز دارند.",
+      "monetization": "هزینه راه‌اندازی + اشتراک ماهانه + سفارشی‌سازی + پشتیبانی.",
+      "example_usage": "مثلاً قابلیت اصلی «juspay/hyperswitch» را در یک پنل فارسی قرار بده تا مشتری بتواند بدون کار با کد از آن استفاده کند.",
+      "sales_pitch": "«ما قابلیت juspay/hyperswitch را متناسب با نیاز کسب‌وکار شما آماده، فارسی‌سازی و راه‌اندازی می‌کنیم و پشتیبانی هم ارائه می‌دهیم.»",
+      "localization": "رابط فارسی و RTL، آموزش فارسی، پنل ساده و اتصال به سرویس‌های موردنیاز بازار هدف.",
+      "difficulty": "متوسط",
+      "time_to_money": "حدود ۱ تا ۴ هفته برای MVP خدماتی؛ وابسته به پیچیدگی پروژه.",
+      "license_risk": "لایسنس: Apache-2.0. قبل از استفاده تجاری، LICENSE و NOTICE و وابستگی‌ها بررسی شوند."
+    }
+  ],
+  "missing_features": [
+    "رابط فارسی و RTL",
+    "پنل مناسب کاربر غیر فنی",
+    "مستندات و آموزش فارسی",
+    "اتصال به سرویس‌های بازار هدف"
+  ],
+  "paying_customers": "کسب‌وکارها و تیم‌هایی که به قابلیت «juspay/hyperswitch» در حوزه Finance نیاز دارند.",
+  "fastest_path": "یک MVP کوچک با قابلیت واقعی «juspay/hyperswitch» برای یک مشتری حوزه Finance بساز و ابتدا هزینه راه‌اندازی و سفارشی‌سازی دریافت کن.",
+  "long_term_path": "بعد از اثبات تقاضا، محصول مبتنی بر «juspay/hyperswitch» را به SaaS تخصصی حوزه Finance تبدیل کن.",
+  "confidence": 55,
+  "license_notes": "لایسنس فعلی: Apache-2.0. پیش از فروش، شرایط مجوز و وابستگی‌ها بررسی شوند.",
+  "_source": "repository_specific_fallback"
+}

@@ -1,0 +1,30 @@
+{
+  "what_it_does": "«waditu/tushare» یک پروژه در حوزه Finance است. توضیح ثبت‌شده: TuShare is a utility for crawling historical data of China stocks زبان: Python. موضوعات مرتبط: finance، fintech، pandas، python، realtime-quotes-data، stock-data.",
+  "why_it_matters": "قابلیت اصلی «waditu/tushare» می‌تواند از یک ابزار فنی به یک محصول آماده برای کاربران حوزه Finance تبدیل شود.",
+  "best_path": "یک محصول یا سرویس تخصصی بر پایه قابلیت واقعی «waditu/tushare» برای حوزه Finance.",
+  "business_opportunities": [
+    {
+      "product": "یک محصول یا سرویس تخصصی بر پایه قابلیت واقعی «waditu/tushare» برای حوزه Finance.",
+      "customer": "کسب‌وکارها و تیم‌هایی که به قابلیت «waditu/tushare» در حوزه Finance نیاز دارند.",
+      "monetization": "هزینه راه‌اندازی + اشتراک ماهانه + سفارشی‌سازی + پشتیبانی.",
+      "example_usage": "مثلاً قابلیت اصلی «waditu/tushare» را در یک پنل فارسی قرار بده تا مشتری بتواند بدون کار با کد از آن استفاده کند.",
+      "sales_pitch": "«ما قابلیت waditu/tushare را متناسب با نیاز کسب‌وکار شما آماده، فارسی‌سازی و راه‌اندازی می‌کنیم و پشتیبانی هم ارائه می‌دهیم.»",
+      "localization": "رابط فارسی و RTL، آموزش فارسی، پنل ساده و اتصال به سرویس‌های موردنیاز بازار هدف.",
+      "difficulty": "متوسط",
+      "time_to_money": "حدود ۱ تا ۴ هفته برای MVP خدماتی؛ وابسته به پیچیدگی پروژه.",
+      "license_risk": "لایسنس: BSD-3-Clause. قبل از استفاده تجاری، LICENSE و NOTICE و وابستگی‌ها بررسی شوند."
+    }
+  ],
+  "missing_features": [
+    "رابط فارسی و RTL",
+    "پنل مناسب کاربر غیر فنی",
+    "مستندات و آموزش فارسی",
+    "اتصال به سرویس‌های بازار هدف"
+  ],
+  "paying_customers": "کسب‌وکارها و تیم‌هایی که به قابلیت «waditu/tushare» در حوزه Finance نیاز دارند.",
+  "fastest_path": "یک MVP کوچک با قابلیت واقعی «waditu/tushare» برای یک مشتری حوزه Finance بساز و ابتدا هزینه راه‌اندازی و سفارشی‌سازی دریافت کن.",
+  "long_term_path": "بعد از اثبات تقاضا، محصول مبتنی بر «waditu/tushare» را به SaaS تخصصی حوزه Finance تبدیل کن.",
+  "confidence": 55,
+  "license_notes": "لایسنس فعلی: BSD-3-Clause. پیش از فروش، شرایط مجوز و وابستگی‌ها بررسی شوند.",
+  "_source": "repository_specific_fallback"
+}

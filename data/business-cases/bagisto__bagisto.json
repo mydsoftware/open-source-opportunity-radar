@@ -1,0 +1,30 @@
+{
+  "what_it_does": "«bagisto/bagisto» یک پروژه در حوزه E-commerce است. توضیح ثبت‌شده: Open Source eCommerce & Multi-Vendor Marketplace Platform Built with Laravel for Enterprise-Scale Commerce, Supporting 10M+ SKUs زبان: PHP. موضوعات مرتبط: b2b-ecommerce، blockchain-ecommerce، ecommerce، ecommerce-framework، ecommerce-platform، hacktoberfest.",
+  "why_it_matters": "قابلیت اصلی «bagisto/bagisto» می‌تواند از یک ابزار فنی به یک محصول آماده برای کاربران حوزه E-commerce تبدیل شود.",
+  "best_path": "یک محصول یا سرویس تخصصی بر پایه قابلیت واقعی «bagisto/bagisto» برای حوزه E-commerce.",
+  "business_opportunities": [
+    {
+      "product": "یک محصول یا سرویس تخصصی بر پایه قابلیت واقعی «bagisto/bagisto» برای حوزه E-commerce.",
+      "customer": "کسب‌وکارها و تیم‌هایی که به قابلیت «bagisto/bagisto» در حوزه E-commerce نیاز دارند.",
+      "monetization": "هزینه راه‌اندازی + اشتراک ماهانه + سفارشی‌سازی + پشتیبانی.",
+      "example_usage": "مثلاً قابلیت اصلی «bagisto/bagisto» را در یک پنل فارسی قرار بده تا مشتری بتواند بدون کار با کد از آن استفاده کند.",
+      "sales_pitch": "«ما قابلیت bagisto/bagisto را متناسب با نیاز کسب‌وکار شما آماده، فارسی‌سازی و راه‌اندازی می‌کنیم و پشتیبانی هم ارائه می‌دهیم.»",
+      "localization": "رابط فارسی و RTL، آموزش فارسی، پنل ساده و اتصال به سرویس‌های موردنیاز بازار هدف.",
+      "difficulty": "متوسط",
+      "time_to_money": "حدود ۱ تا ۴ هفته برای MVP خدماتی؛ وابسته به پیچیدگی پروژه.",
+      "license_risk": "لایسنس: MIT. قبل از استفاده تجاری، LICENSE و NOTICE و وابستگی‌ها بررسی شوند."
+    }
+  ],
+  "missing_features": [
+    "رابط فارسی و RTL",
+    "پنل مناسب کاربر غیر فنی",
+    "مستندات و آموزش فارسی",
+    "اتصال به سرویس‌های بازار هدف"
+  ],
+  "paying_customers": "کسب‌وکارها و تیم‌هایی که به قابلیت «bagisto/bagisto» در حوزه E-commerce نیاز دارند.",
+  "fastest_path": "یک MVP کوچک با قابلیت واقعی «bagisto/bagisto» برای یک مشتری حوزه E-commerce بساز و ابتدا هزینه راه‌اندازی و سفارشی‌سازی دریافت کن.",
+  "long_term_path": "بعد از اثبات تقاضا، محصول مبتنی بر «bagisto/bagisto» را به SaaS تخصصی حوزه E-commerce تبدیل کن.",
+  "confidence": 55,
+  "license_notes": "لایسنس فعلی: MIT. پیش از فروش، شرایط مجوز و وابستگی‌ها بررسی شوند.",
+  "_source": "repository_specific_fallback"
+}

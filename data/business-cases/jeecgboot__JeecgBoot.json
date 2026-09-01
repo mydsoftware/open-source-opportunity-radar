@@ -1,0 +1,30 @@
+{
+  "what_it_does": "«jeecgboot/JeecgBoot» یک پروژه در حوزه Low-code است. توضیح ثبت‌شده: 【低代码v2.0，一句话即可生成整个系统】企业级AI低代码平台，一键生成前后端代码甚至整个系统。 AI Skills 一句话画流程、设计表单、生成报表、大屏。内置 AI应用平台涵盖：AI聊天、知识库、流程编排、MCP插件等，兼容主流大模型。引领AI低代码「Skills 生成 → 在线配置 → 代码生成 → 手工合并->AI修改」开发模式，解决 Java 项目 90% 重复工作，提高效率又不失灵活。 زبان: Java. موضوعات مرتبط: activiti، agent، ai، antd، claude-code، cli.",
+  "why_it_matters": "قابلیت اصلی «jeecgboot/JeecgBoot» می‌تواند از یک ابزار فنی به یک محصول آماده برای کاربران حوزه Low-code تبدیل شود.",
+  "best_path": "یک محصول یا سرویس تخصصی بر پایه قابلیت واقعی «jeecgboot/JeecgBoot» برای حوزه Low-code.",
+  "business_opportunities": [
+    {
+      "product": "یک محصول یا سرویس تخصصی بر پایه قابلیت واقعی «jeecgboot/JeecgBoot» برای حوزه Low-code.",
+      "customer": "کسب‌وکارها و تیم‌هایی که به قابلیت «jeecgboot/JeecgBoot» در حوزه Low-code نیاز دارند.",
+      "monetization": "هزینه راه‌اندازی + اشتراک ماهانه + سفارشی‌سازی + پشتیبانی.",
+      "example_usage": "مثلاً قابلیت اصلی «jeecgboot/JeecgBoot» را در یک پنل فارسی قرار بده تا مشتری بتواند بدون کار با کد از آن استفاده کند.",
+      "sales_pitch": "«ما قابلیت jeecgboot/JeecgBoot را متناسب با نیاز کسب‌وکار شما آماده، فارسی‌سازی و راه‌اندازی می‌کنیم و پشتیبانی هم ارائه می‌دهیم.»",
+      "localization": "رابط فارسی و RTL، آموزش فارسی، پنل ساده و اتصال به سرویس‌های موردنیاز بازار هدف.",
+      "difficulty": "متوسط",
+      "time_to_money": "حدود ۱ تا ۴ هفته برای MVP خدماتی؛ وابسته به پیچیدگی پروژه.",
+      "license_risk": "لایسنس: Apache-2.0. قبل از استفاده تجاری، LICENSE و NOTICE و وابستگی‌ها بررسی شوند."
+    }
+  ],
+  "missing_features": [
+    "رابط فارسی و RTL",
+    "پنل مناسب کاربر غیر فنی",
+    "مستندات و آموزش فارسی",
+    "اتصال به سرویس‌های بازار هدف"
+  ],
+  "paying_customers": "کسب‌وکارها و تیم‌هایی که به قابلیت «jeecgboot/JeecgBoot» در حوزه Low-code نیاز دارند.",
+  "fastest_path": "یک MVP کوچک با قابلیت واقعی «jeecgboot/JeecgBoot» برای یک مشتری حوزه Low-code بساز و ابتدا هزینه راه‌اندازی و سفارشی‌سازی دریافت کن.",
+  "long_term_path": "بعد از اثبات تقاضا، محصول مبتنی بر «jeecgboot/JeecgBoot» را به SaaS تخصصی حوزه Low-code تبدیل کن.",
+  "confidence": 55,
+  "license_notes": "لایسنس فعلی: Apache-2.0. پیش از فروش، شرایط مجوز و وابستگی‌ها بررسی شوند.",
+  "_source": "repository_specific_fallback"
+}

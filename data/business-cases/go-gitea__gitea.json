@@ -1,0 +1,30 @@
+{
+  "what_it_does": "«go-gitea/gitea» یک پروژه در حوزه Developer است. توضیح ثبت‌شده: Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD زبان: Go. موضوعات مرتبط: bitbucket، cicd، devops، docker-registry-v2، git، git-gui.",
+  "why_it_matters": "قابلیت اصلی «go-gitea/gitea» می‌تواند از یک ابزار فنی به یک محصول آماده برای کاربران حوزه Developer تبدیل شود.",
+  "best_path": "یک محصول یا سرویس تخصصی بر پایه قابلیت واقعی «go-gitea/gitea» برای حوزه Developer.",
+  "business_opportunities": [
+    {
+      "product": "یک محصول یا سرویس تخصصی بر پایه قابلیت واقعی «go-gitea/gitea» برای حوزه Developer.",
+      "customer": "کسب‌وکارها و تیم‌هایی که به قابلیت «go-gitea/gitea» در حوزه Developer نیاز دارند.",
+      "monetization": "هزینه راه‌اندازی + اشتراک ماهانه + سفارشی‌سازی + پشتیبانی.",
+      "example_usage": "مثلاً قابلیت اصلی «go-gitea/gitea» را در یک پنل فارسی قرار بده تا مشتری بتواند بدون کار با کد از آن استفاده کند.",
+      "sales_pitch": "«ما قابلیت go-gitea/gitea را متناسب با نیاز کسب‌وکار شما آماده، فارسی‌سازی و راه‌اندازی می‌کنیم و پشتیبانی هم ارائه می‌دهیم.»",
+      "localization": "رابط فارسی و RTL، آموزش فارسی، پنل ساده و اتصال به سرویس‌های موردنیاز بازار هدف.",
+      "difficulty": "متوسط",
+      "time_to_money": "حدود ۱ تا ۴ هفته برای MVP خدماتی؛ وابسته به پیچیدگی پروژه.",
+      "license_risk": "لایسنس: MIT. قبل از استفاده تجاری، LICENSE و NOTICE و وابستگی‌ها بررسی شوند."
+    }
+  ],
+  "missing_features": [
+    "رابط فارسی و RTL",
+    "پنل مناسب کاربر غیر فنی",
+    "مستندات و آموزش فارسی",
+    "اتصال به سرویس‌های بازار هدف"
+  ],
+  "paying_customers": "کسب‌وکارها و تیم‌هایی که به قابلیت «go-gitea/gitea» در حوزه Developer نیاز دارند.",
+  "fastest_path": "یک MVP کوچک با قابلیت واقعی «go-gitea/gitea» برای یک مشتری حوزه Developer بساز و ابتدا هزینه راه‌اندازی و سفارشی‌سازی دریافت کن.",
+  "long_term_path": "بعد از اثبات تقاضا، محصول مبتنی بر «go-gitea/gitea» را به SaaS تخصصی حوزه Developer تبدیل کن.",
+  "confidence": 55,
+  "license_notes": "لایسنس فعلی: MIT. پیش از فروش، شرایط مجوز و وابستگی‌ها بررسی شوند.",
+  "_source": "repository_specific_fallback"
+}

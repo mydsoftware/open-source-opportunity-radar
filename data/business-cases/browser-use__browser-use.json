@@ -1,0 +1,30 @@
+{
+  "what_it_does": "«browser-use/browser-use» یک پروژه در حوزه AI است. توضیح ثبت‌شده: 🌐 Make websites accessible for AI agents. Automate tasks online with ease. زبان: Python. موضوعات مرتبط: ai-agents، ai-tools، browser-automation، browser-use، llm، playwright.",
+  "why_it_matters": "قابلیت اصلی «browser-use/browser-use» می‌تواند از یک ابزار فنی به یک محصول آماده برای کاربران حوزه AI تبدیل شود.",
+  "best_path": "یک محصول یا سرویس تخصصی بر پایه قابلیت واقعی «browser-use/browser-use» برای حوزه AI.",
+  "business_opportunities": [
+    {
+      "product": "یک محصول یا سرویس تخصصی بر پایه قابلیت واقعی «browser-use/browser-use» برای حوزه AI.",
+      "customer": "کسب‌وکارها و تیم‌هایی که به قابلیت «browser-use/browser-use» در حوزه AI نیاز دارند.",
+      "monetization": "هزینه راه‌اندازی + اشتراک ماهانه + سفارشی‌سازی + پشتیبانی.",
+      "example_usage": "مثلاً قابلیت اصلی «browser-use/browser-use» را در یک پنل فارسی قرار بده تا مشتری بتواند بدون کار با کد از آن استفاده کند.",
+      "sales_pitch": "«ما قابلیت browser-use/browser-use را متناسب با نیاز کسب‌وکار شما آماده، فارسی‌سازی و راه‌اندازی می‌کنیم و پشتیبانی هم ارائه می‌دهیم.»",
+      "localization": "رابط فارسی و RTL، آموزش فارسی، پنل ساده و اتصال به سرویس‌های موردنیاز بازار هدف.",
+      "difficulty": "متوسط",
+      "time_to_money": "حدود ۱ تا ۴ هفته برای MVP خدماتی؛ وابسته به پیچیدگی پروژه.",
+      "license_risk": "لایسنس: MIT. قبل از استفاده تجاری، LICENSE و NOTICE و وابستگی‌ها بررسی شوند."
+    }
+  ],
+  "missing_features": [
+    "رابط فارسی و RTL",
+    "پنل مناسب کاربر غیر فنی",
+    "مستندات و آموزش فارسی",
+    "اتصال به سرویس‌های بازار هدف"
+  ],
+  "paying_customers": "کسب‌وکارها و تیم‌هایی که به قابلیت «browser-use/browser-use» در حوزه AI نیاز دارند.",
+  "fastest_path": "یک MVP کوچک با قابلیت واقعی «browser-use/browser-use» برای یک مشتری حوزه AI بساز و ابتدا هزینه راه‌اندازی و سفارشی‌سازی دریافت کن.",
+  "long_term_path": "بعد از اثبات تقاضا، محصول مبتنی بر «browser-use/browser-use» را به SaaS تخصصی حوزه AI تبدیل کن.",
+  "confidence": 55,
+  "license_notes": "لایسنس فعلی: MIT. پیش از فروش، شرایط مجوز و وابستگی‌ها بررسی شوند.",
+  "_source": "repository_specific_fallback"
+}

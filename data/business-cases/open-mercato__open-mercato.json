@@ -1,0 +1,30 @@
+{
+  "what_it_does": "«open-mercato/open-mercato» یک پروژه در حوزه Business است. توضیح ثبت‌شده: The AI-Engineering Foundation Framework for CRM/ERP and commerce: open-source TypeScript, with multi-tenancy, RBAC, events and domain modules already decided as conventions and specs, so Cursor, Claude Code and Codex build features instead of re-deciding architecture. Start with 80% done. زبان: TypeScript. موضوعات مرتبط: admin-panel، agentic، ai-agents، ai-coding، crm، erp.",
+  "why_it_matters": "قابلیت اصلی «open-mercato/open-mercato» می‌تواند از یک ابزار فنی به یک محصول آماده برای کاربران حوزه Business تبدیل شود.",
+  "best_path": "یک محصول یا سرویس تخصصی بر پایه قابلیت واقعی «open-mercato/open-mercato» برای حوزه Business.",
+  "business_opportunities": [
+    {
+      "product": "یک محصول یا سرویس تخصصی بر پایه قابلیت واقعی «open-mercato/open-mercato» برای حوزه Business.",
+      "customer": "کسب‌وکارها و تیم‌هایی که به قابلیت «open-mercato/open-mercato» در حوزه Business نیاز دارند.",
+      "monetization": "هزینه راه‌اندازی + اشتراک ماهانه + سفارشی‌سازی + پشتیبانی.",
+      "example_usage": "مثلاً قابلیت اصلی «open-mercato/open-mercato» را در یک پنل فارسی قرار بده تا مشتری بتواند بدون کار با کد از آن استفاده کند.",
+      "sales_pitch": "«ما قابلیت open-mercato/open-mercato را متناسب با نیاز کسب‌وکار شما آماده، فارسی‌سازی و راه‌اندازی می‌کنیم و پشتیبانی هم ارائه می‌دهیم.»",
+      "localization": "رابط فارسی و RTL، آموزش فارسی، پنل ساده و اتصال به سرویس‌های موردنیاز بازار هدف.",
+      "difficulty": "متوسط",
+      "time_to_money": "حدود ۱ تا ۴ هفته برای MVP خدماتی؛ وابسته به پیچیدگی پروژه.",
+      "license_risk": "لایسنس: MIT. قبل از استفاده تجاری، LICENSE و NOTICE و وابستگی‌ها بررسی شوند."
+    }
+  ],
+  "missing_features": [
+    "رابط فارسی و RTL",
+    "پنل مناسب کاربر غیر فنی",
+    "مستندات و آموزش فارسی",
+    "اتصال به سرویس‌های بازار هدف"
+  ],
+  "paying_customers": "کسب‌وکارها و تیم‌هایی که به قابلیت «open-mercato/open-mercato» در حوزه Business نیاز دارند.",
+  "fastest_path": "یک MVP کوچک با قابلیت واقعی «open-mercato/open-mercato» برای یک مشتری حوزه Business بساز و ابتدا هزینه راه‌اندازی و سفارشی‌سازی دریافت کن.",
+  "long_term_path": "بعد از اثبات تقاضا، محصول مبتنی بر «open-mercato/open-mercato» را به SaaS تخصصی حوزه Business تبدیل کن.",
+  "confidence": 55,
+  "license_notes": "لایسنس فعلی: MIT. پیش از فروش، شرایط مجوز و وابستگی‌ها بررسی شوند.",
+  "_source": "repository_specific_fallback"
+}
