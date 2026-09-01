@@ -14,6 +14,9 @@ concurrency:
   group: opportunity-radar
   cancel-in-progress: false
 
+env:
+  RUBIKA_BOT_TOKEN: ${{ secrets.RUBIKA_BOT_TOKEN }}
+
 jobs:
   scan:
     runs-on: ubuntu-latest
@@ -66,7 +69,7 @@ jobs:
   notify-rubika:
     name: Notify Rubika
     needs: deploy
-    if: ${{ success() && secrets.RUBIKA_BOT_TOKEN != '' }}
+    if: ${{ success() }}
     runs-on: ubuntu-latest
     steps:
       - name: Send scan report to Rubika bot chat
@@ -75,10 +78,14 @@ jobs:
           REPORT_URL: https://mydsoftware.github.io/open-source-opportunity-radar/
         run: |
           set -euo pipefail
+          if [ -z "${RUBIKA_BOT_TOKEN:-}" ]; then
+            echo 'RUBIKA_BOT_TOKEN secret is not configured; notification skipped.'
+            exit 0
+          fi
           updates=$(curl -fsS -X POST "https://botapi.rubika.ir/v3/${RUBIKA_BOT_TOKEN}/getUpdates" \
             -H 'Content-Type: application/json' \
             --data '{"limit":20}')
-          chat_id=$(printf '%s' "$updates" | jq -r '[ .updates[]? | select(.type == "NewMessage") | .chat_id ] | map(select(type == "string" and length > 0)) | last // empty')
+          chat_id=$(printf '%s' "$updates" | jq -r '[ .data?.updates[]? | .chat_id? ] | map(select(type == "string" and length > 0)) | last // empty')
           if [ -z "$chat_id" ]; then
             echo 'No Rubika chat_id found. Send /start to githubscanbot, then rerun this workflow.'
             exit 1
