@@ -1,6 +1,6 @@
 # Open Source Opportunity Radar
 
-Generated: 2026-09-01T09:16:29.673645+00:00
+Generated: 2026-09-01T09:18:51.101471+00:00
 Repositories scanned: 250
 
 ## Top Opportunities
@@ -8,147 +8,147 @@ Repositories scanned: 250
 ### 1. [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) — 81.2/100
 - Description: The agent that grows with you
 - Category: AI
-- Stars: 239,216 | Forks: 48,820 | Growth signal: 50.0
+- Stars: 239,217 | Forks: 48,820 | Growth signal: 50.0
 - License: MIT
 - Best: **AI SaaS** | **Fastest: Integration + Customization** | **Long-term: AI Platform**
 
-### 2. [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) — 81.2/100
-- Description: Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1
+### 2. [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) — 81.2/100
+- Description: Open-source super AI assistant & Agent Harness. Plans tasks, runs tools and skills, self-evolves with memory and knowledge. Multi-model, multi-channel. Lightweight, extensible, one-line install. (formerly chatgpt-on-wechat)
 - Category: AI
-- Stars: 75,802 | Forks: 12,220 | Growth signal: 50.0
+- Stars: 46,745 | Forks: 10,331 | Growth signal: 50.0
 - License: MIT
 - Best: **AI SaaS** | **Fastest: Integration + Customization** | **Long-term: AI Platform**
 
-### 3. [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) — 81.2/100
-- Description: LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.
-- Category: AI
-- Stars: 64,432 | Forks: 54,026 | Growth signal: 50.0
-- License: MIT
-- Best: **AI SaaS** | **Fastest: Integration + Customization** | **Long-term: AI Platform**
-
-### 4. [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) — 81.2/100
-- Description: AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He
-- Category: AI
-- Stars: 50,951 | Forks: 4,086 | Growth signal: 50.0
-- License: MIT
-- Best: **AI SaaS** | **Fastest: Integration + Customization** | **Long-term: AI Platform**
-
-### 5. [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) — 81.2/100
-- Description: Open-source coding agent for your terminal, built in Rust and on a journey of continuous community improvement. Issues and PRs welcome.
-- Category: AI
-- Stars: 40,888 | Forks: 3,538 | Growth signal: 50.0
-- License: MIT
-- Best: **AI SaaS** | **Fastest: Integration + Customization** | **Long-term: AI Platform**
-
-### 6. [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) — 81.2/100
-- Description: "Vibe-Trading: Your Personal Trading Agent"
-- Category: AI
-- Stars: 32,212 | Forks: 5,267 | Growth signal: 50.0
-- License: MIT
-- Best: **AI SaaS** | **Fastest: Integration + Customization** | **Long-term: AI Platform**
-
-### 7. [affaan-m/ECC](https://github.com/affaan-m/ECC) — 81.2/100
+### 3. [affaan-m/ECC](https://github.com/affaan-m/ECC) — 81.2/100
 - Description: The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - Category: AI
-- Stars: 245,454 | Forks: 37,064 | Growth signal: 50.0
+- Stars: 245,457 | Forks: 37,064 | Growth signal: 50.0
 - License: MIT
 - Best: **AI SaaS** | **Fastest: Integration + Customization** | **Long-term: AI Platform**
 
-### 8. [langchain-ai/langchain](https://github.com/langchain-ai/langchain) — 81.2/100
+### 4. [langchain-ai/langchain](https://github.com/langchain-ai/langchain) — 81.2/100
 - Description: The agent engineering platform.
 - Category: AI
-- Stars: 145,407 | Forks: 24,260 | Growth signal: 50.0
+- Stars: 145,409 | Forks: 24,260 | Growth signal: 50.0
 - License: MIT
 - Best: **AI SaaS** | **Fastest: Integration + Customization** | **Long-term: AI Platform**
 
-### 9. [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) — 81.2/100
+### 5. [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) — 81.2/100
 - Description: 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.
 - Category: AI
-- Stars: 119,183 | Forks: 18,244 | Growth signal: 50.0
+- Stars: 119,184 | Forks: 18,245 | Growth signal: 50.0
 - License: MIT
 - Best: **AI SaaS** | **Fastest: Integration + Customization** | **Long-term: AI Platform**
 
-### 10. [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) — 81.2/100
+### 6. [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) — 81.2/100
 - Description: Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - Category: AI
-- Stars: 119,101 | Forks: 6,474 | Growth signal: 50.0
+- Stars: 119,105 | Forks: 6,474 | Growth signal: 50.0
 - License: MIT
 - Best: **AI SaaS** | **Fastest: Integration + Customization** | **Long-term: AI Platform**
 
-### 11. [browser-use/browser-use](https://github.com/browser-use/browser-use) — 81.2/100
-- Description: 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
-- Category: AI
-- Stars: 111,913 | Forks: 12,294 | Growth signal: 50.0
-- License: MIT
-- Best: **AI SaaS** | **Fastest: Integration + Customization** | **Long-term: AI Platform**
-
-### 12. [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) — 81.2/100
-- Description: 🙌 OpenHands: AI-Driven Development
-- Category: AI
-- Stars: 85,819 | Forks: 11,250 | Growth signal: 50.0
-- License: MIT
-- Best: **AI SaaS** | **Fastest: Integration + Customization** | **Long-term: AI Platform**
-
-### 13. [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) — 81.2/100
-- Description: Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience 
-- Category: AI
-- Stars: 65,453 | Forks: 7,233 | Growth signal: 50.0
-- License: MIT
-- Best: **AI SaaS** | **Fastest: Integration + Customization** | **Long-term: AI Platform**
-
-### 14. [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) — 81.2/100
+### 7. [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) — 81.2/100
 - Description: Build resilient agents.
 - Category: AI
-- Stars: 40,834 | Forks: 6,884 | Growth signal: 50.0
+- Stars: 40,835 | Forks: 6,884 | Growth signal: 50.0
 - License: MIT
 - Best: **AI SaaS** | **Fastest: Integration + Customization** | **Long-term: AI Platform**
 
-### 15. [aimeos/aimeos-laravel](https://github.com/aimeos/aimeos-laravel) — 81.2/100
+### 8. [aimeos/aimeos-laravel](https://github.com/aimeos/aimeos-laravel) — 81.2/100
 - Description: Laravel ecommerce package for ultra fast online shops, scalable marketplaces, complex B2B applications and #gigacommerce
 - Category: E-commerce
 - Stars: 8,694 | Forks: 1,111 | Growth signal: 50.0
 - License: MIT
 - Best: **Vertical SaaS** | **Fastest: Installation + Customization** | **Long-term: Enterprise SaaS**
 
-### 16. [HKUDS/nanobot](https://github.com/HKUDS/nanobot) — 81.1/100
+### 9. [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) — 81.1/100
+- Description: Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1
+- Category: AI
+- Stars: 75,802 | Forks: 12,220 | Growth signal: 50.0
+- License: MIT
+- Best: **AI SaaS** | **Fastest: Integration + Customization** | **Long-term: AI Platform**
+
+### 10. [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) — 81.1/100
+- Description: LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.
+- Category: AI
+- Stars: 64,432 | Forks: 54,027 | Growth signal: 50.0
+- License: MIT
+- Best: **AI SaaS** | **Fastest: Integration + Customization** | **Long-term: AI Platform**
+
+### 11. [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) — 81.1/100
+- Description: AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He
+- Category: AI
+- Stars: 50,951 | Forks: 4,086 | Growth signal: 50.0
+- License: MIT
+- Best: **AI SaaS** | **Fastest: Integration + Customization** | **Long-term: AI Platform**
+
+### 12. [HKUDS/nanobot](https://github.com/HKUDS/nanobot) — 81.1/100
 - Description: Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-agent workflows, automation, and chat apps
 - Category: AI
 - Stars: 47,596 | Forks: 8,401 | Growth signal: 50.0
 - License: MIT
 - Best: **AI SaaS** | **Fastest: Integration + Customization** | **Long-term: AI Platform**
 
-### 17. [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) — 81.1/100
-- Description: Open-source super AI assistant & Agent Harness. Plans tasks, runs tools and skills, self-evolves with memory and knowledge. Multi-model, multi-channel. Lightweight, extensible, one-line install. (formerly chatgpt-on-wechat)
+### 13. [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) — 81.1/100
+- Description: Open-source coding agent for your terminal, built in Rust and on a journey of continuous community improvement. Issues and PRs welcome.
 - Category: AI
-- Stars: 46,744 | Forks: 10,331 | Growth signal: 50.0
+- Stars: 40,888 | Forks: 3,538 | Growth signal: 50.0
 - License: MIT
 - Best: **AI SaaS** | **Fastest: Integration + Customization** | **Long-term: AI Platform**
 
-### 18. [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) — 81.1/100
+### 14. [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) — 81.1/100
 - Description: The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more.  Makers of the AG-UI Protocol
 - Category: AI
 - Stars: 37,137 | Forks: 4,592 | Growth signal: 50.0
 - License: MIT
 - Best: **AI SaaS** | **Fastest: Integration + Customization** | **Long-term: AI Platform**
 
-### 19. [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) — 81.1/100
+### 15. [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) — 81.1/100
 - Description: DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.
 - Category: AI
 - Stars: 35,311 | Forks: 2,358 | Growth signal: 50.0
 - License: MIT
 - Best: **AI SaaS** | **Fastest: Integration + Customization** | **Long-term: AI Platform**
 
-### 20. [ollama/ollama](https://github.com/ollama/ollama) — 81.1/100
+### 16. [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) — 81.1/100
+- Description: "Vibe-Trading: Your Personal Trading Agent"
+- Category: AI
+- Stars: 32,212 | Forks: 5,267 | Growth signal: 50.0
+- License: MIT
+- Best: **AI SaaS** | **Fastest: Integration + Customization** | **Long-term: AI Platform**
+
+### 17. [ollama/ollama](https://github.com/ollama/ollama) — 81.1/100
 - Description: Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - Category: AI
 - Stars: 179,870 | Forks: 17,632 | Growth signal: 50.0
 - License: MIT
 - Best: **AI SaaS** | **Fastest: Integration + Customization** | **Long-term: AI Platform**
 
-### 21. [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) — 81.1/100
+### 18. [browser-use/browser-use](https://github.com/browser-use/browser-use) — 81.1/100
+- Description: 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
+- Category: AI
+- Stars: 111,913 | Forks: 12,294 | Growth signal: 50.0
+- License: MIT
+- Best: **AI SaaS** | **Fastest: Integration + Customization** | **Long-term: AI Platform**
+
+### 19. [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) — 81.1/100
+- Description: 🙌 OpenHands: AI-Driven Development
+- Category: AI
+- Stars: 85,819 | Forks: 11,250 | Growth signal: 50.0
+- License: MIT
+- Best: **AI SaaS** | **Fastest: Integration + Customization** | **Long-term: AI Platform**
+
+### 20. [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) — 81.1/100
 - Description: 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
 - Category: AI
 - Stars: 77,941 | Forks: 8,559 | Growth signal: 50.0
+- License: MIT
+- Best: **AI SaaS** | **Fastest: Integration + Customization** | **Long-term: AI Platform**
+
+### 21. [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) — 81.1/100
+- Description: Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience 
+- Category: AI
+- Stars: 65,453 | Forks: 7,233 | Growth signal: 50.0
 - License: MIT
 - Best: **AI SaaS** | **Fastest: Integration + Customization** | **Long-term: AI Platform**
 
@@ -218,7 +218,7 @@ Repositories scanned: 250
 ### 31. [vllm-project/vllm](https://github.com/vllm-project/vllm) — 80.4/100
 - Description: A high-throughput and memory-efficient inference and serving engine for LLMs
 - Category: AI
-- Stars: 90,668 | Forks: 21,526 | Growth signal: 50.0
+- Stars: 90,669 | Forks: 21,526 | Growth signal: 50.0
 - License: Apache-2.0
 - Best: **AI SaaS** | **Fastest: Integration + Customization** | **Long-term: AI Platform**
 
@@ -316,7 +316,7 @@ Repositories scanned: 250
 ### 45. [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) — 80.1/100
 - Description: Clone any website with one command using AI coding agents
 - Category: Automation
-- Stars: 33,532 | Forks: 4,893 | Growth signal: 50.0
+- Stars: 33,533 | Forks: 4,893 | Growth signal: 50.0
 - License: MIT
 - Best: **SaaS / Services** | **Fastest: Installation + Customization** | **Long-term: Platform / Enterprise**
 
@@ -376,40 +376,40 @@ Repositories scanned: 250
 - License: MIT
 - Best: **Vertical SaaS** | **Fastest: Installation + Customization** | **Long-term: Enterprise SaaS**
 
-### 54. [googleworkspace/cli](https://github.com/googleworkspace/cli) — 79.4/100
+### 54. [googleworkspace/cli](https://github.com/googleworkspace/cli) — 79.3/100
 - Description: Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.
 - Category: Automation
 - Stars: 30,674 | Forks: 1,799 | Growth signal: 50.0
 - License: Apache-2.0
 - Best: **SaaS / Services** | **Fastest: Installation + Customization** | **Long-term: Platform / Enterprise**
 
-### 55. [apache/airflow](https://github.com/apache/airflow) — 79.4/100
+### 55. [apache/airflow](https://github.com/apache/airflow) — 79.3/100
 - Description: Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 - Category: Automation
 - Stars: 46,677 | Forks: 17,714 | Growth signal: 50.0
 - License: Apache-2.0
 - Best: **SaaS / Services** | **Fastest: Installation + Customization** | **Long-term: Platform / Enterprise**
 
-### 56. [microsoft/markitdown](https://github.com/microsoft/markitdown) — 79.3/100
-- Description: Python tool for converting files and office documents to Markdown.
-- Category: Documents
-- Stars: 177,475 | Forks: 13,052 | Growth signal: 50.0
-- License: MIT
-- Best: **Vertical SaaS** | **Fastest: Installation + Customization** | **Long-term: Enterprise SaaS**
-
-### 57. [microsoft/qlib](https://github.com/microsoft/qlib) — 79.2/100
+### 56. [microsoft/qlib](https://github.com/microsoft/qlib) — 79.2/100
 - Description: Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped with https://github.com/microsoft/RD-Agent to automate R&D process.
 - Category: Finance
 - Stars: 48,176 | Forks: 7,626 | Growth signal: 50.0
 - License: MIT
 - Best: **SaaS / Services** | **Fastest: Installation + Customization** | **Long-term: Platform / Enterprise**
 
-### 58. [AI4Finance-Foundation/FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) — 79.2/100
+### 57. [AI4Finance-Foundation/FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) — 79.2/100
 - Description: FinGPT: Open-Source Financial Large Language Models!  Revolutionize 🔥    We release the trained model on HuggingFace.
 - Category: Finance
 - Stars: 21,197 | Forks: 3,006 | Growth signal: 50.0
 - License: MIT
 - Best: **SaaS / Services** | **Fastest: Installation + Customization** | **Long-term: Platform / Enterprise**
+
+### 58. [microsoft/markitdown](https://github.com/microsoft/markitdown) — 79.2/100
+- Description: Python tool for converting files and office documents to Markdown.
+- Category: Documents
+- Stars: 177,475 | Forks: 13,052 | Growth signal: 50.0
+- License: MIT
+- Best: **Vertical SaaS** | **Fastest: Installation + Customization** | **Long-term: Enterprise SaaS**
 
 ### 59. [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) — 79.1/100
 - Description: 【低代码v2.0，一句话即可生成整个系统】企业级AI低代码平台，一键生成前后端代码甚至整个系统。 AI Skills 一句话画流程、设计表单、生成报表、大屏。内置 AI应用平台涵盖：AI聊天、知识库、流程编排、MCP插件等，兼容主流大模型。引领AI低代码「Skills 生成 → 在线配置 → 代码生成 → 手工合并->AI修改」开发模式，解决 Java 项目 90% 重复工作，提高效率又不失灵活。
@@ -547,7 +547,7 @@ Repositories scanned: 250
 ### 78. [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) — 77.6/100
 - Description: 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!
 - Category: Automation
-- Stars: 77,647 | Forks: 7,790 | Growth signal: 50.0
+- Stars: 77,650 | Forks: 7,790 | Growth signal: 50.0
 - License: BSD-3-Clause
 - Best: **SaaS / Services** | **Fastest: Installation + Customization** | **Long-term: Platform / Enterprise**
 
@@ -558,7 +558,7 @@ Repositories scanned: 250
 - License: BSD-3-Clause
 - Best: **SaaS / Services** | **Fastest: Installation + Customization** | **Long-term: Platform / Enterprise**
 
-### 80. [Kong/kong](https://github.com/Kong/kong) — 77.6/100
+### 80. [Kong/kong](https://github.com/Kong/kong) — 77.5/100
 - Description: 🦍 The API and AI Gateway
 - Category: Developer
 - Stars: 44,066 | Forks: 5,205 | Growth signal: 50.0
@@ -649,7 +649,7 @@ Repositories scanned: 250
 - License: Apache-2.0
 - Best: **Vertical SaaS** | **Fastest: Installation + Customization** | **Long-term: Enterprise SaaS**
 
-### 93. [ruvnet/RuView](https://github.com/ruvnet/RuView) — 77.0/100
+### 93. [ruvnet/RuView](https://github.com/ruvnet/RuView) — 76.9/100
 - Description: π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
 - Category: IoT
 - Stars: 92,231 | Forks: 12,240 | Growth signal: 50.0
@@ -701,6 +701,6 @@ Repositories scanned: 250
 ### 100. [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) — 76.6/100
 - Description: A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - Category: Developer
-- Stars: 241,470 | Forks: 14,253 | Growth signal: 50.0
+- Stars: 241,471 | Forks: 14,253 | Growth signal: 50.0
 - License: MIT
 - Best: **Managed Service** | **Fastest: Setup + Support** | **Long-term: Enterprise Platform**
