@@ -23,3 +23,33 @@ rules:
   require_license_evidence: true
   require_confidence_score: true
   deterministic_metrics_from_github: true
+
+license_scores:
+  MIT: 100
+  Apache-2.0: 95
+  BSD-2-Clause: 95
+  BSD-3-Clause: 95
+  ISC: 95
+  MPL-2.0: 75
+  LGPL-3.0: 65
+  LGPL-2.1: 65
+  GPL-3.0: 55
+  GPL-2.0: 55
+  AGPL-3.0: 45
+  SSPL-1.0: 20
+  BSL-1.1: 25
+  null: 10
+
+category_business_scores:
+  AI: 90
+  E-commerce: 88
+  Business: 88
+  Automation: 92
+  Developer: 86
+  Low-code: 90
+  Web: 82
+  Games: 84
+  IoT: 87
+  Finance: 84
+  Documents: 88
+  Analytics: 86
