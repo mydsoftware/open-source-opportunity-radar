@@ -33,6 +33,8 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python scripts/scan.py
+      - name: Validate Freebuff results already committed
+        run: python scripts/import_freebuff_results.py
       - name: Prepare Freebuff analysis queue
         run: python scripts/prepare_freebuff_queue.py
       - name: Build dashboard
