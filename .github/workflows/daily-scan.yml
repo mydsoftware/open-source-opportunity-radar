@@ -20,37 +20,33 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.13'
-
       - name: Install dependencies
         run: pip install -r requirements.txt
-
-      - name: Run scanner
+      - name: Run deterministic scanner
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/scan.py
+      - name: Run optional semantic business analysis
+        env:
           LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
           LLM_BASE_URL: ${{ secrets.LLM_BASE_URL }}
           LLM_MODEL: ${{ secrets.LLM_MODEL }}
-        run: python scripts/scan.py
-
+        run: python scripts/llm_analyze.py
       - name: Build dashboard
         run: python scripts/build_dashboard.py
-
       - name: Run tests
-        run: python -m pytest -q || true
-
+        run: python -m pytest -q
       - name: Commit generated data and reports
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add data reports dashboard || true
+          git add data reports dashboard
           git diff --cached --quiet || git commit -m 'chore: update opportunity radar'
-          git push || true
-
+          git push
       - name: Upload dashboard
         uses: actions/upload-pages-artifact@v3
         with:
