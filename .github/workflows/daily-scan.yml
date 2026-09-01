@@ -2,7 +2,7 @@ name: Daily Opportunity Scan
 
 on:
   schedule:
-    - cron: '30 4 * * *'
+    - cron: '0 */6 * * *'
   workflow_dispatch:
 
 permissions:
@@ -62,3 +62,28 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+
+  notify-rubika:
+    name: Notify Rubika
+    needs: deploy
+    if: ${{ success() && secrets.RUBIKA_BOT_TOKEN != '' }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Send scan report to Rubika bot chat
+        env:
+          RUBIKA_BOT_TOKEN: ${{ secrets.RUBIKA_BOT_TOKEN }}
+          REPORT_URL: https://mydsoftware.github.io/open-source-opportunity-radar/
+        run: |
+          set -euo pipefail
+          updates=$(curl -fsS -X POST "https://botapi.rubika.ir/v3/${RUBIKA_BOT_TOKEN}/getUpdates" \
+            -H 'Content-Type: application/json' \
+            --data '{"limit":20}')
+          chat_id=$(printf '%s' "$updates" | jq -r '[ .updates[]? | select(.type == "NewMessage") | .chat_id ] | map(select(type == "string" and length > 0)) | last // empty')
+          if [ -z "$chat_id" ]; then
+            echo 'No Rubika chat_id found. Send /start to githubscanbot, then rerun this workflow.'
+            exit 1
+          fi
+          text="🚨 رادار فرصت‌های متن‌باز\n\nاسکن جدید با موفقیت انجام شد ✅\n\n📊 داشبورد و گزارش کامل:\n${REPORT_URL}\n\n⏰ این گزارش توسط Open Source Opportunity Radar تولید شده است."
+          curl -fsS -X POST "https://botapi.rubika.ir/v3/${RUBIKA_BOT_TOKEN}/sendMessage" \
+            -H 'Content-Type: application/json' \
+            --data "$(jq -n --arg chat_id "$chat_id" --arg text "$text" '{chat_id:$chat_id,text:$text}')"
