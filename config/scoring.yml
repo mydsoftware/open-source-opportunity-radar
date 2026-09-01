@@ -1,0 +1,25 @@
+weights:
+  popularity: 0.10
+  growth: 0.15
+  activity: 0.10
+  community: 0.05
+  technical_quality: 0.10
+  commercial_freedom: 0.15
+  market_potential: 0.10
+  saas_potential: 0.10
+  ai_opportunity: 0.05
+  localization_opportunity: 0.05
+  time_to_money: 0.05
+
+labels:
+  0-39: low
+  40-59: moderate
+  60-74: good
+  75-89: high
+  90-100: exceptional
+
+rules:
+  never_guarantee_revenue: true
+  require_license_evidence: true
+  require_confidence_score: true
+  deterministic_metrics_from_github: true
