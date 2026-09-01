@@ -1,0 +1,64 @@
+categories:
+  ai:
+    - ai-agent
+    - llm
+    - rag
+    - ai-coding
+    - generative-ai
+    - computer-vision
+    - speech
+  business:
+    - crm
+    - erp
+    - pos
+    - accounting
+    - hr
+    - project-management
+    - ecommerce
+    - marketplace
+  developer:
+    - developer-tools
+    - framework
+    - api
+    - database
+    - devops
+    - cloud
+    - testing
+    - automation
+  documents:
+    - pdf
+    - ocr
+    - document-management
+    - knowledge-management
+  creative:
+    - game-engine
+    - game-development
+    - 3d
+    - image
+    - video
+    - audio
+  industrial:
+    - iot
+    - fleet-management
+    - gps
+    - manufacturing
+    - agriculture
+    - robotics
+  consumer:
+    - productivity
+    - finance
+    - education
+    - media
+    - photo-management
+    - smart-home
+
+scan_profiles:
+  established:
+    min_stars: 5000
+    max_results_per_query: 100
+  emerging:
+    min_stars: 100
+    max_results_per_query: 100
+  commercial:
+    min_stars: 1000
+    max_results_per_query: 100
