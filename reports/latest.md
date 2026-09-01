@@ -1,6 +1,6 @@
 # Open Source Opportunity Radar
 
-Generated: 2026-09-01T09:24:54.842493+00:00
+Generated: 2026-09-01T09:32:43.085644+00:00
 Repositories scanned: 250
 
 ## Top Opportunities
@@ -8,140 +8,140 @@ Repositories scanned: 250
 ### 1. [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) — 81.2/100
 - Description: The agent that grows with you
 - Category: AI
-- Stars: 239,220 | Forks: 48,821 | Growth signal: 50.0
+- Stars: 239,226 | Forks: 48,821 | Growth signal: 50.0
 - License: MIT
 - Best: **AI SaaS** | **Fastest: Integration + Customization** | **Long-term: AI Platform**
 
-### 2. [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) — 81.2/100
+### 2. [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) — 81.2/100
+- Description: Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1
+- Category: AI
+- Stars: 75,804 | Forks: 12,220 | Growth signal: 50.0
+- License: MIT
+- Best: **AI SaaS** | **Fastest: Integration + Customization** | **Long-term: AI Platform**
+
+### 3. [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) — 81.2/100
 - Description: AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He
 - Category: AI
-- Stars: 50,958 | Forks: 4,086 | Growth signal: 50.0
+- Stars: 50,962 | Forks: 4,087 | Growth signal: 50.0
 - License: MIT
 - Best: **AI SaaS** | **Fastest: Integration + Customization** | **Long-term: AI Platform**
 
-### 3. [HKUDS/nanobot](https://github.com/HKUDS/nanobot) — 81.2/100
-- Description: Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-agent workflows, automation, and chat apps
+### 4. [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) — 81.2/100
+- Description: "Vibe-Trading: Your Personal Trading Agent"
 - Category: AI
-- Stars: 47,597 | Forks: 8,401 | Growth signal: 50.0
-- License: MIT
-- Best: **AI SaaS** | **Fastest: Integration + Customization** | **Long-term: AI Platform**
-
-### 4. [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) — 81.2/100
-- Description: DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.
-- Category: AI
-- Stars: 35,312 | Forks: 2,358 | Growth signal: 50.0
+- Stars: 32,213 | Forks: 5,267 | Growth signal: 50.0
 - License: MIT
 - Best: **AI SaaS** | **Fastest: Integration + Customization** | **Long-term: AI Platform**
 
 ### 5. [affaan-m/ECC](https://github.com/affaan-m/ECC) — 81.2/100
 - Description: The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - Category: AI
-- Stars: 245,461 | Forks: 37,064 | Growth signal: 50.0
+- Stars: 245,465 | Forks: 37,064 | Growth signal: 50.0
 - License: MIT
 - Best: **AI SaaS** | **Fastest: Integration + Customization** | **Long-term: AI Platform**
 
-### 6. [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) — 81.2/100
+### 6. [ollama/ollama](https://github.com/ollama/ollama) — 81.2/100
+- Description: Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- Category: AI
+- Stars: 179,871 | Forks: 17,632 | Growth signal: 50.0
+- License: MIT
+- Best: **AI SaaS** | **Fastest: Integration + Customization** | **Long-term: AI Platform**
+
+### 7. [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) — 81.2/100
 - Description: 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.
 - Category: AI
-- Stars: 119,186 | Forks: 18,246 | Growth signal: 50.0
+- Stars: 119,190 | Forks: 18,247 | Growth signal: 50.0
 - License: MIT
 - Best: **AI SaaS** | **Fastest: Integration + Customization** | **Long-term: AI Platform**
 
-### 7. [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) — 81.2/100
+### 8. [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) — 81.2/100
 - Description: Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - Category: AI
-- Stars: 119,116 | Forks: 6,474 | Growth signal: 50.0
+- Stars: 119,131 | Forks: 6,474 | Growth signal: 50.0
 - License: MIT
 - Best: **AI SaaS** | **Fastest: Integration + Customization** | **Long-term: AI Platform**
 
-### 8. [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) — 81.2/100
+### 9. [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) — 81.2/100
 - Description: 🙌 OpenHands: AI-Driven Development
 - Category: AI
-- Stars: 85,820 | Forks: 11,250 | Growth signal: 50.0
+- Stars: 85,823 | Forks: 11,250 | Growth signal: 50.0
 - License: MIT
 - Best: **AI SaaS** | **Fastest: Integration + Customization** | **Long-term: AI Platform**
 
-### 9. [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) — 81.2/100
+### 10. [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) — 81.2/100
+- Description: 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
+- Category: AI
+- Stars: 77,943 | Forks: 8,559 | Growth signal: 50.0
+- License: MIT
+- Best: **AI SaaS** | **Fastest: Integration + Customization** | **Long-term: AI Platform**
+
+### 11. [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) — 81.2/100
 - Description: Build resilient agents.
 - Category: AI
-- Stars: 40,837 | Forks: 6,884 | Growth signal: 50.0
+- Stars: 40,838 | Forks: 6,884 | Growth signal: 50.0
 - License: MIT
 - Best: **AI SaaS** | **Fastest: Integration + Customization** | **Long-term: AI Platform**
 
-### 10. [aimeos/aimeos-laravel](https://github.com/aimeos/aimeos-laravel) — 81.2/100
+### 12. [aimeos/aimeos-laravel](https://github.com/aimeos/aimeos-laravel) — 81.2/100
 - Description: Laravel ecommerce package for ultra fast online shops, scalable marketplaces, complex B2B applications and #gigacommerce
 - Category: E-commerce
 - Stars: 8,694 | Forks: 1,111 | Growth signal: 50.0
 - License: MIT
 - Best: **Vertical SaaS** | **Fastest: Installation + Customization** | **Long-term: Enterprise SaaS**
 
-### 11. [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) — 81.1/100
-- Description: Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1
-- Category: AI
-- Stars: 75,802 | Forks: 12,220 | Growth signal: 50.0
-- License: MIT
-- Best: **AI SaaS** | **Fastest: Integration + Customization** | **Long-term: AI Platform**
-
-### 12. [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) — 81.1/100
+### 13. [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) — 81.1/100
 - Description: LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.
 - Category: AI
-- Stars: 64,432 | Forks: 54,027 | Growth signal: 50.0
+- Stars: 64,431 | Forks: 54,027 | Growth signal: 50.0
 - License: MIT
 - Best: **AI SaaS** | **Fastest: Integration + Customization** | **Long-term: AI Platform**
 
-### 13. [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) — 81.1/100
+### 14. [HKUDS/nanobot](https://github.com/HKUDS/nanobot) — 81.1/100
+- Description: Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-agent workflows, automation, and chat apps
+- Category: AI
+- Stars: 47,597 | Forks: 8,401 | Growth signal: 50.0
+- License: MIT
+- Best: **AI SaaS** | **Fastest: Integration + Customization** | **Long-term: AI Platform**
+
+### 15. [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) — 81.1/100
 - Description: Open-source super AI assistant & Agent Harness. Plans tasks, runs tools and skills, self-evolves with memory and knowledge. Multi-model, multi-channel. Lightweight, extensible, one-line install. (formerly chatgpt-on-wechat)
 - Category: AI
 - Stars: 46,745 | Forks: 10,331 | Growth signal: 50.0
 - License: MIT
 - Best: **AI SaaS** | **Fastest: Integration + Customization** | **Long-term: AI Platform**
 
-### 14. [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) — 81.1/100
+### 16. [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) — 81.1/100
 - Description: Open-source coding agent for your terminal, built in Rust and on a journey of continuous community improvement. Issues and PRs welcome.
 - Category: AI
 - Stars: 40,888 | Forks: 3,538 | Growth signal: 50.0
 - License: MIT
 - Best: **AI SaaS** | **Fastest: Integration + Customization** | **Long-term: AI Platform**
 
-### 15. [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) — 81.1/100
+### 17. [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) — 81.1/100
 - Description: The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more.  Makers of the AG-UI Protocol
 - Category: AI
 - Stars: 37,137 | Forks: 4,592 | Growth signal: 50.0
 - License: MIT
 - Best: **AI SaaS** | **Fastest: Integration + Customization** | **Long-term: AI Platform**
 
-### 16. [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) — 81.1/100
-- Description: "Vibe-Trading: Your Personal Trading Agent"
+### 18. [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) — 81.1/100
+- Description: DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.
 - Category: AI
-- Stars: 32,212 | Forks: 5,267 | Growth signal: 50.0
+- Stars: 35,312 | Forks: 2,358 | Growth signal: 50.0
 - License: MIT
 - Best: **AI SaaS** | **Fastest: Integration + Customization** | **Long-term: AI Platform**
 
-### 17. [ollama/ollama](https://github.com/ollama/ollama) — 81.1/100
-- Description: Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
-- Category: AI
-- Stars: 179,870 | Forks: 17,632 | Growth signal: 50.0
-- License: MIT
-- Best: **AI SaaS** | **Fastest: Integration + Customization** | **Long-term: AI Platform**
-
-### 18. [langchain-ai/langchain](https://github.com/langchain-ai/langchain) — 81.1/100
+### 19. [langchain-ai/langchain](https://github.com/langchain-ai/langchain) — 81.1/100
 - Description: The agent engineering platform.
 - Category: AI
-- Stars: 145,409 | Forks: 24,260 | Growth signal: 50.0
+- Stars: 145,409 | Forks: 24,262 | Growth signal: 50.0
 - License: MIT
 - Best: **AI SaaS** | **Fastest: Integration + Customization** | **Long-term: AI Platform**
 
-### 19. [browser-use/browser-use](https://github.com/browser-use/browser-use) — 81.1/100
+### 20. [browser-use/browser-use](https://github.com/browser-use/browser-use) — 81.1/100
 - Description: 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
 - Category: AI
 - Stars: 111,913 | Forks: 12,294 | Growth signal: 50.0
-- License: MIT
-- Best: **AI SaaS** | **Fastest: Integration + Customization** | **Long-term: AI Platform**
-
-### 20. [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) — 81.1/100
-- Description: 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
-- Category: AI
-- Stars: 77,941 | Forks: 8,559 | Growth signal: 50.0
 - License: MIT
 - Best: **AI SaaS** | **Fastest: Integration + Customization** | **Long-term: AI Platform**
 
@@ -183,7 +183,7 @@ Repositories scanned: 250
 ### 26. [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book) — 80.4/100
 - Description: 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码
 - Category: AI
-- Stars: 44,024 | Forks: 4,850 | Growth signal: 50.0
+- Stars: 44,027 | Forks: 4,850 | Growth signal: 50.0
 - License: Apache-2.0
 - Best: **AI SaaS** | **Fastest: Integration + Customization** | **Long-term: AI Platform**
 
@@ -211,14 +211,14 @@ Repositories scanned: 250
 ### 30. [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) — 80.4/100
 - Description: Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.
 - Category: AI
-- Stars: 113,156 | Forks: 11,013 | Growth signal: 50.0
+- Stars: 113,162 | Forks: 11,014 | Growth signal: 50.0
 - License: Apache-2.0
 - Best: **AI SaaS** | **Fastest: Integration + Customization** | **Long-term: AI Platform**
 
 ### 31. [vllm-project/vllm](https://github.com/vllm-project/vllm) — 80.4/100
 - Description: A high-throughput and memory-efficient inference and serving engine for LLMs
 - Category: AI
-- Stars: 90,669 | Forks: 21,526 | Growth signal: 50.0
+- Stars: 90,672 | Forks: 21,527 | Growth signal: 50.0
 - License: Apache-2.0
 - Best: **AI SaaS** | **Fastest: Integration + Customization** | **Long-term: AI Platform**
 
@@ -232,21 +232,21 @@ Repositories scanned: 250
 ### 33. [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) — 80.4/100
 - Description: 100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.
 - Category: AI
-- Stars: 135,503 | Forks: 19,918 | Growth signal: 50.0
+- Stars: 135,504 | Forks: 19,918 | Growth signal: 50.0
 - License: Apache-2.0
 - Best: **AI SaaS** | **Fastest: Integration + Customization** | **Long-term: AI Platform**
 
 ### 34. [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) — 80.4/100
 - Description: Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
 - Category: AI
-- Stars: 92,799 | Forks: 8,163 | Growth signal: 50.0
+- Stars: 92,801 | Forks: 8,163 | Growth signal: 50.0
 - License: Apache-2.0
 - Best: **AI SaaS** | **Fastest: Integration + Customization** | **Long-term: AI Platform**
 
 ### 35. [infiniflow/ragflow](https://github.com/infiniflow/ragflow) — 80.4/100
 - Description: RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
 - Category: AI
-- Stars: 89,803 | Forks: 10,591 | Growth signal: 50.0
+- Stars: 89,804 | Forks: 10,591 | Growth signal: 50.0
 - License: Apache-2.0
 - Best: **AI SaaS** | **Fastest: Integration + Customization** | **Long-term: AI Platform**
 
@@ -260,7 +260,7 @@ Repositories scanned: 250
 ### 37. [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) — 80.4/100
 - Description: Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.
 - Category: AI
-- Stars: 68,252 | Forks: 5,289 | Growth signal: 50.0
+- Stars: 68,255 | Forks: 5,289 | Growth signal: 50.0
 - License: Apache-2.0
 - Best: **AI SaaS** | **Fastest: Integration + Customization** | **Long-term: AI Platform**
 
@@ -288,14 +288,14 @@ Repositories scanned: 250
 ### 41. [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) — 80.1/100
 - Description: Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
 - Category: Automation
-- Stars: 77,222 | Forks: 6,615 | Growth signal: 50.0
+- Stars: 77,223 | Forks: 6,615 | Growth signal: 50.0
 - License: MIT
 - Best: **SaaS / Services** | **Fastest: Installation + Customization** | **Long-term: Platform / Enterprise**
 
 ### 42. [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) — 80.1/100
 - Description: Open-source AI job search: scan job portals, evaluate listings into a structured A-H report with a global 1-5 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)
 - Category: Automation
-- Stars: 69,671 | Forks: 13,173 | Growth signal: 50.0
+- Stars: 69,672 | Forks: 13,173 | Growth signal: 50.0
 - License: MIT
 - Best: **SaaS / Services** | **Fastest: Installation + Customization** | **Long-term: Platform / Enterprise**
 
@@ -337,7 +337,7 @@ Repositories scanned: 250
 ### 48. [bagisto/bagisto](https://github.com/bagisto/bagisto) — 79.5/100
 - Description: Open Source eCommerce & Multi-Vendor Marketplace Platform Built with Laravel for Enterprise-Scale Commerce, Supporting 10M+ SKUs
 - Category: E-commerce
-- Stars: 28,085 | Forks: 3,262 | Growth signal: 50.0
+- Stars: 28,086 | Forks: 3,262 | Growth signal: 50.0
 - License: MIT
 - Best: **Vertical SaaS** | **Fastest: Installation + Customization** | **Long-term: Enterprise SaaS**
 
@@ -365,7 +365,7 @@ Repositories scanned: 250
 ### 52. [krayin/laravel-crm](https://github.com/krayin/laravel-crm) — 79.5/100
 - Description: Krayin CRM is Free & Open Source CRM Built with Laravel for Customer, Lead, and Sales Management.
 - Category: Business
-- Stars: 23,815 | Forks: 1,605 | Growth signal: 50.0
+- Stars: 23,816 | Forks: 1,605 | Growth signal: 50.0
 - License: MIT
 - Best: **Vertical SaaS** | **Fastest: Installation + Customization** | **Long-term: Enterprise SaaS**
 
@@ -390,26 +390,26 @@ Repositories scanned: 250
 - License: Apache-2.0
 - Best: **SaaS / Services** | **Fastest: Installation + Customization** | **Long-term: Platform / Enterprise**
 
-### 56. [microsoft/qlib](https://github.com/microsoft/qlib) — 79.2/100
+### 56. [microsoft/markitdown](https://github.com/microsoft/markitdown) — 79.3/100
+- Description: Python tool for converting files and office documents to Markdown.
+- Category: Documents
+- Stars: 177,477 | Forks: 13,052 | Growth signal: 50.0
+- License: MIT
+- Best: **Vertical SaaS** | **Fastest: Installation + Customization** | **Long-term: Enterprise SaaS**
+
+### 57. [microsoft/qlib](https://github.com/microsoft/qlib) — 79.2/100
 - Description: Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped with https://github.com/microsoft/RD-Agent to automate R&D process.
 - Category: Finance
 - Stars: 48,176 | Forks: 7,626 | Growth signal: 50.0
 - License: MIT
 - Best: **SaaS / Services** | **Fastest: Installation + Customization** | **Long-term: Platform / Enterprise**
 
-### 57. [AI4Finance-Foundation/FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) — 79.2/100
+### 58. [AI4Finance-Foundation/FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) — 79.2/100
 - Description: FinGPT: Open-Source Financial Large Language Models!  Revolutionize 🔥    We release the trained model on HuggingFace.
 - Category: Finance
 - Stars: 21,197 | Forks: 3,006 | Growth signal: 50.0
 - License: MIT
 - Best: **SaaS / Services** | **Fastest: Installation + Customization** | **Long-term: Platform / Enterprise**
-
-### 58. [microsoft/markitdown](https://github.com/microsoft/markitdown) — 79.2/100
-- Description: Python tool for converting files and office documents to Markdown.
-- Category: Documents
-- Stars: 177,475 | Forks: 13,052 | Growth signal: 50.0
-- License: MIT
-- Best: **Vertical SaaS** | **Fastest: Installation + Customization** | **Long-term: Enterprise SaaS**
 
 ### 59. [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) — 79.1/100
 - Description: 【低代码v2.0，一句话即可生成整个系统】企业级AI低代码平台，一键生成前后端代码甚至整个系统。 AI Skills 一句话画流程、设计表单、生成报表、大屏。内置 AI应用平台涵盖：AI聊天、知识库、流程编排、MCP插件等，兼容主流大模型。引领AI低代码「Skills 生成 → 在线配置 → 代码生成 → 手工合并->AI修改」开发模式，解决 Java 项目 90% 重复工作，提高效率又不失灵活。
@@ -470,7 +470,7 @@ Repositories scanned: 250
 ### 67. [aureuserp/aureuserp](https://github.com/aureuserp/aureuserp) — 78.4/100
 - Description: Free and Open Source ERP platform
 - Category: Business
-- Stars: 11,886 | Forks: 549 | Growth signal: 50.0
+- Stars: 11,887 | Forks: 549 | Growth signal: 50.0
 - License: MIT
 - Best: **Vertical SaaS** | **Fastest: Installation + Customization** | **Long-term: Enterprise SaaS**
 
@@ -547,7 +547,7 @@ Repositories scanned: 250
 ### 78. [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) — 77.6/100
 - Description: 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!
 - Category: Automation
-- Stars: 77,653 | Forks: 7,790 | Growth signal: 50.0
+- Stars: 77,656 | Forks: 7,790 | Growth signal: 50.0
 - License: BSD-3-Clause
 - Best: **SaaS / Services** | **Fastest: Installation + Customization** | **Long-term: Platform / Enterprise**
 
@@ -582,7 +582,7 @@ Repositories scanned: 250
 ### 83. [actualbudget/actual](https://github.com/actualbudget/actual) — 77.5/100
 - Description: A local-first personal finance app
 - Category: Finance
-- Stars: 28,503 | Forks: 2,926 | Growth signal: 50.0
+- Stars: 28,503 | Forks: 2,927 | Growth signal: 50.0
 - License: MIT
 - Best: **SaaS / Services** | **Fastest: Installation + Customization** | **Long-term: Platform / Enterprise**
 
@@ -603,7 +603,7 @@ Repositories scanned: 250
 ### 86. [stefan-jansen/machine-learning-for-trading](https://github.com/stefan-jansen/machine-learning-for-trading) — 77.5/100
 - Description: Code for Machine Learning for Trading, 3rd edition — from data sourcing to live execution.
 - Category: Finance
-- Stars: 20,745 | Forks: 5,579 | Growth signal: 50.0
+- Stars: 20,746 | Forks: 5,579 | Growth signal: 50.0
 - License: MIT
 - Best: **SaaS / Services** | **Fastest: Installation + Customization** | **Long-term: Platform / Enterprise**
 
@@ -652,7 +652,7 @@ Repositories scanned: 250
 ### 93. [ruvnet/RuView](https://github.com/ruvnet/RuView) — 76.9/100
 - Description: π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
 - Category: IoT
-- Stars: 92,231 | Forks: 12,240 | Growth signal: 50.0
+- Stars: 92,231 | Forks: 12,241 | Growth signal: 50.0
 - License: MIT
 - Best: **Managed Service** | **Fastest: Setup + Support** | **Long-term: Enterprise Platform**
 
@@ -701,6 +701,6 @@ Repositories scanned: 250
 ### 100. [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) — 76.6/100
 - Description: A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - Category: Developer
-- Stars: 241,473 | Forks: 14,253 | Growth signal: 50.0
+- Stars: 241,474 | Forks: 14,253 | Growth signal: 50.0
 - License: MIT
 - Best: **Managed Service** | **Fastest: Setup + Support** | **Long-term: Enterprise Platform**
