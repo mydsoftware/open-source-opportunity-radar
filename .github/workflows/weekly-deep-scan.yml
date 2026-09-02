@@ -21,11 +21,12 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python scripts/scan.py
-      - name: LLM business intelligence
+      - name: LLM business intelligence (top 100)
         env:
           LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
           LLM_BASE_URL: ${{ secrets.LLM_BASE_URL }}
           LLM_MODEL: ${{ secrets.LLM_MODEL }}
+          LLM_TOP_N: '100'
         run: python scripts/llm_analyze.py
       - name: Build dashboard
         run: python scripts/build_dashboard.py

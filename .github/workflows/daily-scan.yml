@@ -35,6 +35,13 @@ jobs:
         run: python scripts/scan.py
       - name: Validate Freebuff results already committed
         run: python scripts/import_freebuff_results.py
+      - name: Generate in-workflow business analyses
+        env:
+          LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
+          LLM_BASE_URL: ${{ secrets.LLM_BASE_URL }}
+          LLM_MODEL: ${{ secrets.LLM_MODEL }}
+          LLM_TOP_N: '25'
+        run: python scripts/llm_analyze.py
       - name: Prepare Freebuff analysis queue
         run: python scripts/prepare_freebuff_queue.py
       - name: Build dashboard
