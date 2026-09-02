@@ -1,5 +1,28 @@
 [
   {
+    "repository": "firecrawl/pdf-inspector",
+    "url": "https://github.com/firecrawl/pdf-inspector",
+    "category": "Documents",
+    "language": "Rust",
+    "topics": [
+      "markdown",
+      "nodejs",
+      "ocr-routing",
+      "pdf",
+      "pdf-classification",
+      "pdf-extraction",
+      "pdf-parser",
+      "python",
+      "rust",
+      "text-extraction"
+    ],
+    "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
+    "score": 84.2,
+    "stars": 18432,
+    "license": "MIT",
+    "task": "Use .agents/open-source-opportunity-analyst.ts. Inspect this repository deeply and write the final structured analysis to data/business-cases/<owner>__<repo>.json. Do not reuse generic templates."
+  },
+  {
     "repository": "binhnguyennus/awesome-scalability",
     "url": "https://github.com/binhnguyennus/awesome-scalability",
     "category": "Developer",
@@ -28,24 +51,7 @@
     ],
     "description": "The Patterns of Scalable, Reliable, and Performant Large-Scale Systems",
     "score": 80.5,
-    "stars": 73673,
-    "license": "MIT",
-    "task": "Use .agents/open-source-opportunity-analyst.ts. Inspect this repository deeply and write the final structured analysis to data/business-cases/<owner>__<repo>.json. Do not reuse generic templates."
-  },
-  {
-    "repository": "nektos/act",
-    "url": "https://github.com/nektos/act",
-    "category": "Developer",
-    "language": "Go",
-    "topics": [
-      "ci",
-      "devops",
-      "github-actions",
-      "golang"
-    ],
-    "description": "Run your GitHub Actions locally 🚀",
-    "score": 80.5,
-    "stars": 71757,
+    "stars": 73675,
     "license": "MIT",
     "task": "Use .agents/open-source-opportunity-analyst.ts. Inspect this repository deeply and write the final structured analysis to data/business-cases/<owner>__<repo>.json. Do not reuse generic templates."
   }
