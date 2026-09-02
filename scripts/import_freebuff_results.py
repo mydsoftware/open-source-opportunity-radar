@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
 """اعتبارسنجی و وارد کردن خروجی‌های Freebuff به عنوان business case."""
+from __future__ import annotations
+
 import json
 from pathlib import Path
 
@@ -11,19 +13,22 @@ REQUIRED = {'what_it_does', 'problem_solved', 'why_it_matters', 'best_products',
 PRODUCT_REQUIRED = {'product','customer','example_usage','sales_pitch','monetization','pricing','localization','difficulty','time_to_money','license_risk'}
 
 
-def valid(data):
-    if not REQUIRED.issubset(data): return False
-    if not isinstance(data['best_products'], list) or not data['best_products']: return False
+def valid(data: dict) -> bool:
+    if not REQUIRED.issubset(data):
+        return False
+    if not isinstance(data['best_products'], list) or not data['best_products']:
+        return False
     for p in data['best_products'][:3]:
-        if not isinstance(p, dict) or not PRODUCT_REQUIRED.issubset(p): return False
+        if not isinstance(p, dict) or not PRODUCT_REQUIRED.issubset(p):
+            return False
     return True
 
 
-def main():
+def main() -> None:
     CASES.mkdir(parents=True, exist_ok=True)
     queue = json.loads(QUEUE.read_text(encoding='utf-8')) if QUEUE.exists() else []
     imported = 0
-    invalid = []
+    invalid: list[str] = []
     for item in queue:
         path = CASES / (item['repository'].replace('/', '__') + '.json')
         if not path.exists():
@@ -31,10 +36,12 @@ def main():
             continue
         try:
             data = json.loads(path.read_text(encoding='utf-8'))
-        except Exception:
-            invalid.append(item['repository']); continue
+        except json.JSONDecodeError:
+            invalid.append(item['repository'])
+            continue
         if not valid(data):
-            invalid.append(item['repository']); continue
+            invalid.append(item['repository'])
+            continue
         data['_source'] = 'freebuff'
         data['_repository'] = item['repository']
         path.write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding='utf-8')
@@ -44,4 +51,5 @@ def main():
         print('Pending:', ', '.join(invalid[:30]))
 
 
-if __name__ == '__main__': main()
+if __name__ == '__main__':
+    main()
