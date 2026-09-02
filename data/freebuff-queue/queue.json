@@ -1,29 +1,5 @@
 [
   {
-    "repository": "Hmbown/Codewhale",
-    "url": "https://github.com/Hmbown/Codewhale",
-    "category": "AI",
-    "language": "Rust",
-    "topics": [
-      "agent-orchestration",
-      "ai-agent",
-      "cli",
-      "coding-agent",
-      "local-first",
-      "mcp",
-      "multi-agent",
-      "multi-model",
-      "open-source",
-      "rust",
-      "tui"
-    ],
-    "description": "Open-source coding agent for your terminal, built in Rust and on a journey of continuous community improvement. Issues and PRs welcome.",
-    "score": 85.9,
-    "stars": 40894,
-    "license": "MIT",
-    "task": "Use .agents/open-source-opportunity-analyst.ts. Inspect this repository deeply and write the final structured analysis to data/business-cases/<owner>__<repo>.json. Do not reuse generic templates."
-  },
-  {
     "repository": "binhnguyennus/awesome-scalability",
     "url": "https://github.com/binhnguyennus/awesome-scalability",
     "category": "Developer",
@@ -52,7 +28,7 @@
     ],
     "description": "The Patterns of Scalable, Reliable, and Performant Large-Scale Systems",
     "score": 80.5,
-    "stars": 73671,
+    "stars": 73673,
     "license": "MIT",
     "task": "Use .agents/open-source-opportunity-analyst.ts. Inspect this repository deeply and write the final structured analysis to data/business-cases/<owner>__<repo>.json. Do not reuse generic templates."
   },
