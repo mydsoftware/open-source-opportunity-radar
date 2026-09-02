@@ -18,8 +18,58 @@
       "tui"
     ],
     "description": "Open-source coding agent for your terminal, built in Rust and on a journey of continuous community improvement. Issues and PRs welcome.",
-    "score": 81.1,
-    "stars": 40888,
+    "score": 85.9,
+    "stars": 40894,
+    "license": "MIT",
+    "task": "Use .agents/open-source-opportunity-analyst.ts. Inspect this repository deeply and write the final structured analysis to data/business-cases/<owner>__<repo>.json. Do not reuse generic templates."
+  },
+  {
+    "repository": "binhnguyennus/awesome-scalability",
+    "url": "https://github.com/binhnguyennus/awesome-scalability",
+    "category": "Developer",
+    "language": null,
+    "topics": [
+      "architecture",
+      "awesome",
+      "awesome-list",
+      "backend",
+      "big-data",
+      "computer-science",
+      "design-patterns",
+      "devops",
+      "distributed-systems",
+      "interview",
+      "interview-practice",
+      "interview-questions",
+      "lists",
+      "machine-learning",
+      "programming",
+      "resources",
+      "scalability",
+      "system",
+      "system-design",
+      "web-development"
+    ],
+    "description": "The Patterns of Scalable, Reliable, and Performant Large-Scale Systems",
+    "score": 80.5,
+    "stars": 73671,
+    "license": "MIT",
+    "task": "Use .agents/open-source-opportunity-analyst.ts. Inspect this repository deeply and write the final structured analysis to data/business-cases/<owner>__<repo>.json. Do not reuse generic templates."
+  },
+  {
+    "repository": "nektos/act",
+    "url": "https://github.com/nektos/act",
+    "category": "Developer",
+    "language": "Go",
+    "topics": [
+      "ci",
+      "devops",
+      "github-actions",
+      "golang"
+    ],
+    "description": "Run your GitHub Actions locally 🚀",
+    "score": 80.5,
+    "stars": 71757,
     "license": "MIT",
     "task": "Use .agents/open-source-opportunity-analyst.ts. Inspect this repository deeply and write the final structured analysis to data/business-cases/<owner>__<repo>.json. Do not reuse generic templates."
   }
