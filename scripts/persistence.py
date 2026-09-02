@@ -80,10 +80,38 @@ def utcnow() -> str:
     return datetime.now(timezone.utc).isoformat()
 
 
+def _migrate(conn: sqlite3.Connection) -> None:
+    """Apply incremental column additions to legacy databases.
+
+    SQLite has no ALTER TABLE … IF NOT EXISTS for columns, so we inspect
+    pragma_table_info and add missing columns defensively. Each migration
+    must be idempotent and safe to run on every startup.
+    """
+    expected: dict[str, list[tuple[str, str]]] = {
+        "repositories": [
+            ("default_branch", "TEXT"),
+            ("archived", "INTEGER DEFAULT 0"),
+            ("created_at", "TEXT"),
+        ],
+        "snapshots": [
+            ("release_tag", "TEXT"),
+        ],
+        "opportunities": [
+            ("time_to_money_score", "REAL"),
+        ],
+    }
+    for table, columns in expected.items():
+        existing = {row[1] for row in conn.execute(f"PRAGMA table_info({table})").fetchall()}
+        for name, decl in columns:
+            if name not in existing:
+                conn.execute(f"ALTER TABLE {table} ADD COLUMN {name} {decl}")
+
+
 def init_db(db_path: Path = DEFAULT_DB) -> None:
     db_path.parent.mkdir(parents=True, exist_ok=True)
     with sqlite3.connect(db_path) as conn:
         conn.executescript(SCHEMA)
+        _migrate(conn)
         conn.commit()
 
 
