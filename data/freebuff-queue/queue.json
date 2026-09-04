@@ -1,38 +1,5 @@
 [
   {
-    "repository": "feder-cr/AIHawk",
-    "url": "https://github.com/feder-cr/AIHawk",
-    "category": "Automation",
-    "language": "Python",
-    "topics": [
-      "anti-bot",
-      "anti-detect-browser",
-      "antidetect",
-      "automation",
-      "bot-detection",
-      "browser-automation",
-      "browser-fingerprinting",
-      "cloudflare",
-      "crawler",
-      "fingerprint",
-      "fingerprintjs",
-      "firefox",
-      "headless-browser",
-      "playwright",
-      "proxy",
-      "python",
-      "scraping",
-      "selenium",
-      "stealth",
-      "web-scraping"
-    ],
-    "description": "Born as an AI web agent that applied to jobs in bulk. Becoming a general one: an agent you point at the web and tell what to do.",
-    "score": 85.3,
-    "stars": 30307,
-    "license": "MIT",
-    "task": "Use .agents/open-source-opportunity-analyst.ts. Inspect this repository deeply and write the final structured analysis to data/business-cases/<owner>__<repo>.json. Do not reuse generic templates."
-  },
-  {
     "repository": "solidusio/solidus",
     "url": "https://github.com/solidusio/solidus",
     "category": "E-commerce",
@@ -54,6 +21,30 @@
     "task": "Use .agents/open-source-opportunity-analyst.ts. Inspect this repository deeply and write the final structured analysis to data/business-cases/<owner>__<repo>.json. Do not reuse generic templates."
   },
   {
+    "repository": "assafelovic/gpt-researcher",
+    "url": "https://github.com/assafelovic/gpt-researcher",
+    "category": "Automation",
+    "language": "Python",
+    "topics": [
+      "agent",
+      "ai",
+      "automation",
+      "deepresearch",
+      "llms",
+      "mcp",
+      "mcp-server",
+      "python",
+      "research",
+      "search",
+      "webscraping"
+    ],
+    "description": "An autonomous agent that conducts deep research on any data using any LLM providers",
+    "score": 84.5,
+    "stars": 29288,
+    "license": "Apache-2.0",
+    "task": "Use .agents/open-source-opportunity-analyst.ts. Inspect this repository deeply and write the final structured analysis to data/business-cases/<owner>__<repo>.json. Do not reuse generic templates."
+  },
+  {
     "repository": "firecrawl/pdf-inspector",
     "url": "https://github.com/firecrawl/pdf-inspector",
     "category": "Documents",
@@ -72,7 +63,7 @@
     ],
     "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
     "score": 84.3,
-    "stars": 18809,
+    "stars": 18814,
     "license": "MIT",
     "task": "Use .agents/open-source-opportunity-analyst.ts. Inspect this repository deeply and write the final structured analysis to data/business-cases/<owner>__<repo>.json. Do not reuse generic templates."
   }
