@@ -72,7 +72,7 @@
     ],
     "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
     "score": 84.3,
-    "stars": 18758,
+    "stars": 18770,
     "license": "MIT",
     "task": "Use .agents/open-source-opportunity-analyst.ts. Inspect this repository deeply and write the final structured analysis to data/business-cases/<owner>__<repo>.json. Do not reuse generic templates."
   }
