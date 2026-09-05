@@ -39,8 +39,8 @@
       "webscraping"
     ],
     "description": "An autonomous agent that conducts deep research on any data using any LLM providers",
-    "score": 84.5,
-    "stars": 29288,
+    "score": 84.6,
+    "stars": 29290,
     "license": "Apache-2.0",
     "task": "Use .agents/open-source-opportunity-analyst.ts. Inspect this repository deeply and write the final structured analysis to data/business-cases/<owner>__<repo>.json. Do not reuse generic templates."
   },
@@ -63,7 +63,7 @@
     ],
     "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
     "score": 84.3,
-    "stars": 18814,
+    "stars": 18820,
     "license": "MIT",
     "task": "Use .agents/open-source-opportunity-analyst.ts. Inspect this repository deeply and write the final structured analysis to data/business-cases/<owner>__<repo>.json. Do not reuse generic templates."
   }
